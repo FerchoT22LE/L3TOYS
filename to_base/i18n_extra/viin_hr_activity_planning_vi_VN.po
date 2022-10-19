@@ -1,0 +1,69 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_hr_activity_planning
+msgid ""
+"\n"
+"Improve HR Activity Planning\n"
+"    "
+msgstr ""
+"\n"
+"Nâng cấp mở rộng tính năng kế hoạch hoạt động của HR\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_hr_activity_planning
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"Allow HR officer to launch plan for employees\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Allow HR officer to launch plan for employee/manager/coach which is not from HR groups\n"
+"* Manager/coach are able to see their employee's plans\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Cho phép nhân viên HR có thể lên các kế hoạch cho từng nhân viên/quản lý nhân viên/huấn luyện nhân viên\n"
+"\n"
+"Tính năng chính\n"
+"===============\n"
+"* Cho phép nhân viên HR lên kế hoạch cho nhân viên/quản lý nhân viên/huấn luyện nhân viên mà nhân viên/quản lý nhân viên/huấn luyện nhân viên không cần phải thuộc nhóm cán bộ nhân sự\n"
+"* Quản lý nhân viên/huấn luyện của nhân viên có thể xem các kế hoạch của nhân viên mà đang quản lý\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_hr_activity_planning
+msgid "HR Activity Planning"
+msgstr "Kế hoạch hoạt động nhân sự"

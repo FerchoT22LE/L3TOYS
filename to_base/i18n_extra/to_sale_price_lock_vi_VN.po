@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_sale_price_lock
+msgid ""
+"\n"
+"Lock Sales Prices on sales quotation to salesmen (Users: own documents)"
+msgstr ""
+"\n"
+"Khóa giá bán đối trên báo giá với Người bán hàng (Người dùng: Chỉ tài liệu của chính mình)\n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_sale_price_lock
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This is a simple application that locks the sales price in Sales Orders/Quotations against modification by Salespersons who are assigned into the groups \"Users: own documents\"\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Allows to lock order/quote sales prices to prevent certain people from modifying them.\n"
+"* Allows to change Sale Price Modifying Group in Sale Application Settings\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Đây là một ứng dụng đơn giản giúp khóa giá bán trên biểu mẫu Đơn bán/Báo giá để tránh bị sửa đổi bởi nhân viên bán hàng được phân vào nhóm \"Người dùng: chỉ tài liệu của chính mình\"\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Cho phép khóa giá bán đơn hàng/báo giá để ngăn một số người thuộc một nhóm nhất định sửa đổi.\n"
+"* Cho phép thay đổi Nhóm sửa đổi giá bán trong phần Thiết lập của ứng dụng Bán hàng\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_sale_price_lock
+msgid "Sales Price Lock"
+msgstr "Khóa Giá Bán"

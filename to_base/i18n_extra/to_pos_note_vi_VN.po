@@ -1,0 +1,62 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_pos_note
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"\n"
+"This module helps enter notes on the PoS screen and print PoS receipt with note. \n"
+"\n"
+"Key features\n"
+"============\n"
+"1. PoS user, during order validation at PoS screen, can input some text as note into the PoS order\n"
+"2. The note will be stored in the order and appear on the PoS Receipt.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Mô-đun này giúp người dùng nhập ghi chú ngay trên màn hình PoS. Nội dung ghi chú sẽ hiển thị trên biên lai.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"1. Trong quá trình xác thực tại màn hình PoS, nhân viên có thể nhập văn bản dưới dạng ghi chú.\n"
+"2. Ghi chú sẽ được lưu lại và hiển thị trên biên lai.\n"
+"\n"
+"Phiên bản hỗ trợ\n"
+"================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_pos_note
+msgid "Enter notes on the PoS screen and print notes on the receipt"
+msgstr "Nhập ghi chú trên màn hình PoS và in nó lên biên lai"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_pos_note
+msgid "PoS Order Note for Receipt Printing"
+msgstr "Ghi chú PoS cho việc in phiếu thu"

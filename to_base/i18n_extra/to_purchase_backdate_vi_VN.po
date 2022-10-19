@@ -1,0 +1,65 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_purchase_backdate
+msgid ""
+"\n"
+"\n"
+"Key Features\n"
+"============\n"
+"By default, when you validate or approve a purchase order, Odoo will take the current date and time for the Confirmation Date. This is sometimes not what you want, especially when you want to validate the purchase order which was actually confirmed in the past. This module, on the other hand, enable users to confirm purchase orders with backdate by updating the Confirmation Date field in order to input your desired confirmation date\n"
+"\n"
+"Backdate Operations Control\n"
+"---------------------------\n"
+"By default, only users of the group \"Purchase / Administrator\" will be able to carry out backdate operations in the Purchase application. Other users must be granted the access group Backdate Operations before they can do so.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"    "
+msgstr ""
+"\n"
+"\n"
+"Tính năng nổi bật\n"
+"================\n"
+"Theo mặc định, khi bạn xác thực hoặc phê duyệt đơn đặt hàng, Odoo sẽ lấy ngày giờ hiện tại cho Ngày xác nhận đơn mua. Điều này đôi lúc sẽ gây bất tiện cho người dùng, đặc biệt là khi bạn muốn xác thực đơn đặt hàng đã được xác nhận trong quá khứ.Ứng dụng này sẽ giúp người dùng có thể xác nhận một đơn mua với ngày xác nhận trong quá khứ. Khi xác nhận đơn mua, màn hình hiển thị cửa sổ cho phép chọn ngày xác nhận đơn mua trong quá khứ. \n"
+"\n"
+"Phân quyền\n"
+"----------\n"
+"Theo mặc định, chỉ người dùng nằm trong nhóm “Mua/ Quản trị viên” mới có thể thực hiện thao tác này. Những người dùng khác phải được cấp quyền mới sử dụng tính năng này.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_purchase_backdate
+msgid ""
+"\n"
+"Validate/Approve purchase orders with backdate"
+msgstr ""
+"\n"
+"Phê duyệt/ xác nhận đơn mua với ngày giao nhận trong quá khứ"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_purchase_backdate
+msgid "Purchase Confirmation Backdate"
+msgstr "Xác nhận Mua hàng trong quá khứ"

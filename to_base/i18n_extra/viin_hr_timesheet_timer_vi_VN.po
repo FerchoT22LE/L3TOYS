@@ -1,0 +1,61 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_hr_timesheet_timer
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"* Start logging timesheet on a project task when you start/resume the task by hitting `Log Timesheet` button on the form view of the task.\n"
+"* Stop logging timesheet on a project task when you pause/finish the task by hitting `Stop Timesheet Log` button on the form view of the task.\n"
+"* New filter to find all the tasks that having your own work-in-progress timesheet entry\n"
+"* New filter to Find all the tasks that having a work-in-progress timesheet entry by anyone\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Khởi động việc chấm công bằng nút Bắt đầu chấm công ở trên giao diện form của nhiệm vụ\n"
+"* Dừng việc chấm công bằng nút Dừng chấm công ở trên giao diện form của nhiệm vụ\n"
+"* Bộ lọc mới để tìm ra các nhiệm vụ mình mà đang chấm công dở dang\n"
+"* Bộ lọc mới để tìm ra các nhiệm vụ mà có ai đó đang chấm công dở dang\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_hr_timesheet_timer
+msgid "HR Timesheet Timer"
+msgstr "Bộ đếm thời gian chấm công"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_hr_timesheet_timer
+msgid "Provide start/stop button on tasks to ease timesheet entry log"
+msgstr ""
+"\n"
+"Cung cấp nút Khởi động/Dừng trên nhiệm vụ để đơn giản hóa chấm công\n"

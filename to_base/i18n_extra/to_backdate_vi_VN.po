@@ -1,0 +1,56 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_backdate
+msgid ""
+"\n"
+"Access group for backdate operations"
+msgstr ""
+"\n"
+"Nhóm quyền cho các hoạt động với ngày thực hiện trong quá khứ\n"
+"        "
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_backdate
+msgid ""
+"\n"
+"What is does\n"
+"============\n"
+"This module is intended for other backdate-related modules to extend such as Stock Transfers Backdate, Inventory Backdate, Sales Confirmation Backdate, etc\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"    "
+msgstr ""
+"\n"
+"Module này làm gì\n"
+"=================\n"
+"Module này là module cơ sở để các module liên quan đến backdate có thể kế thừa.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_backdate
+msgid "Backdate Operations Access Rights"
+msgstr "Quyền nhập Ngày trong Quá khứ"

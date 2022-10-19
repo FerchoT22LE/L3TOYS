@@ -1,0 +1,57 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:06+0000\n"
+"PO-Revision-Date: 2021-12-25 05:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_stock_asset_equipment
+msgid ""
+"\n"
+"Integrate Asset Management with Stock Equipment application for management equipment as asset"
+msgstr ""
+"\n"
+"Tích hợp ứng dụng Quản Lý Tài sản với ứng dụng Thiết Bị Và Kho để quản lý tài sản thiết bị"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_stock_asset_equipment
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"Integrate Asset Management with Stock Equipment application for management equipment as asset\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Tích hợp ứng dụng Quản Lý Tài sản với ứng dụng Thiết Bị Và Kho để quản lý tài sản thiết bị\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_stock_asset_equipment
+msgid "Stock Asset Equipment"
+msgstr "Tài Sản Thiết bị Và Kho"

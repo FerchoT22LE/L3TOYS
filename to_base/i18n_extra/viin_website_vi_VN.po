@@ -1,0 +1,65 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:06+0000\n"
+"PO-Revision-Date: 2021-12-25 05:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_website
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module offers more enhanced and advanced features for website app\n"
+"\n"
+"Key Features\n"
+"============\n"
+"- Replace website applications dropdown menu with a toggle menu that will redirect user to backoffice applications\n"
+"- More features will be added day by day...\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Module này cải tiến các tính năng sẵn có và thêm các tính năng cao cấp cho website\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"- Thay thế menu xổ xuống của ứng dụng website bằng menu chuyển đổi để chuyển hướng người dùng đến các ứng dụng trong backofffice\n"
+"- Các tính năng khác sẽ được bổ sung dần...\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_website
+msgid "Enhanced features for website"
+msgstr ""
+"\n"
+"Các tính năng cao cấp cho ứng dụng website\n"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_website
+msgid "Viin Website"
+msgstr ""

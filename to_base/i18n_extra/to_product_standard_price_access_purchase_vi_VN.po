@@ -1,0 +1,59 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_product_standard_price_access_purchase
+msgid ""
+"\n"
+"Grant purchase users access to product Cost\n"
+"       "
+msgstr ""
+"\n"
+"Cấp quyền truy cập cho nhân viên mua hàng vào Giá Vốn Sản phẩm\n"
+"       "
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_product_standard_price_access_purchase
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"This module grants purchase users access to the field Cost (also known as ```standard_price```) on the product form view.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"Module này cấp quyền cho nhân viên mua hàng thấy trường Giá Vốn trên form Sản phẩm.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_product_standard_price_access_purchase
+msgid "Product Standard Price Access - Purchase User"
+msgstr "Truy cập Giá Vốn Sản phẩm - Nhân viên Mua Hàng"

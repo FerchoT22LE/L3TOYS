@@ -1,0 +1,68 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_website_hr_recruitment_website_editor
+msgid ""
+"\n"
+"Allow Website Editors Edit Recruitment post on Website"
+msgstr ""
+"\n"
+"Cho phép Editors chỉnh sửa bài tuyển nhân sự trên Website được tạo bởi HR.\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_website_hr_recruitment_website_editor
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* This module with bring you 2 setting options for helping Website / Editor and Designer have ability to edit HR's Recruitment Post. \n"
+"* First option is for Website, it will allow Website / Editors edit HR Job on specific Website, you can find it in Website Setting.\n"
+"* For example, Website 1 turn this on and Website 2 don't, Website / Editor and Designer can edit HR's Recruitment Post in Website 1, but they can't edit post in Website 2. \n"
+"* Second is for Company, if turn on, it will allow Website Editors edit HR Job base on Company.\n"
+"* If you want for Website, you can easily find it in Website Setting, and it name 'Website Editors Edit HR Post For Website'.\n"
+"* If you want for Company, find it in Recruitment at Job Posting.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"* Module này tạo thêm 2 tùy chọn setting giúp Web cho Website / Editor and Designer có thể sửa bài đăng tuyển của HR trên website.\n"
+"* Nếu chọn cho Website thì sẽ sẽ cho phép Website / Editor and Designer có thể sửa ở Website cụ thể dựa vào setting.\n"
+"* Ví dụ, Website 1 được bật và Website 2 thì không, Website / Editor and Designer chỉ có thể sửa bài đăng ở Website 1, còn ở Website 2 thì không. \n"
+"* Lựa chọn thứ 2 là cho phép sửa dựa trên company.  \n"
+"* Nếu muốn bật cho Website, hãy tìm ở Website Setting, có tên là 'Website Editors Edit HR Post For Website'.\n"
+"* Nếu muốn bật cho company, hãy tìm ở Recruitment Setting ở mục Job Posting, có tên là 'Website Editors Edit HR Post For Company'.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_website_hr_recruitment_website_editor
+msgid "HR Recruitment Website Editor"
+msgstr "Sửa bài đăng tuyển dụng nhân sự trên Website"

@@ -1,0 +1,55 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:06+0000\n"
+"PO-Revision-Date: 2021-12-25 05:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_mobile_notification
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This is the base module for sending notifications to mobile application. This module needs to be extended by other modules to be able to connect with different notification service providers.\n"
+"\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Đây là module cơ sở cho việc gửi thông báo qua ứng dụng di động, và cần được mở rộng thông qua các module khác để có thể kết nối với các nhà cung cấp dịch vụ thông báo khác nhau\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_mobile_notification
+msgid "Notification feature for mobile app"
+msgstr ""
+"\n"
+"Chức năng thông báo cho ứng dụng di động\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_mobile_notification
+msgid "Viindoo Mobile Notification"
+msgstr "Thông báo Di động"

@@ -1,0 +1,70 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_mrp_bom_component_percentage
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* For equipment products: if you want to unbuild and sell the equipment by component, use the FIFO cost method when receiving. \n"
+"* When receiving a synced equipment, the cost price is counted on the entire equipment. \n"
+"* When unbuilding a equipment, you need to set the price for each component to define its cost price.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Define cost percentage for components of the equipment/product based on its Bills of Materials.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"* Với hàng hóa là máy móc thiết bị khi nhập kho sử dụng phương pháp giá thực tế đích danh hoặc trung bình,nếu doanh nghiệp có nhu cầu tháo dỡ để bán từng thành phần\n"
+"* Khi nhập hàng một thiết bị đồng bộ, giá vốn được tính trên toàn bộ thiết bị\n"
+"* Khi tách ra thành các thành phần của thiết bị, cần định giá cho từng thành phần phục vụ cho việc tính toán giá vốn của phụ kiện, thành phần đó.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Ấn định tỷ lệ chia phần trăm giá vốn cho các thành phần của thiết bị/ sản phẩm dựa trên định mức nguyên vật liệu (BOM) cho thiết bị đó.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_mrp_bom_component_percentage
+msgid "BoM Component Cost Percentage"
+msgstr "Phần trăm giá vốn các thành phần trong Định mức Nguyên vật liệu"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_mrp_bom_component_percentage
+msgid ""
+"Devide the price percentage for the components in BOM.\n"
+"        "
+msgstr ""
+"\n"
+"Chia tỉ lệ phần trăm giá trị cho các thành phần của Định mức Nguyên vật liệu.\n"
+"        "

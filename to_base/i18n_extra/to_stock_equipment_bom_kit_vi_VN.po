@@ -1,0 +1,64 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_stock_equipment_bom_kit
+msgid ""
+"\n"
+"Generate child equipments (parts) from the parent that has Bom kit specified\n"
+"        "
+msgstr ""
+"\n"
+"Tạo thiết bị con từ thiết bị cha có thiết lập Bom Kit\n"
+"        "
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_stock_equipment_bom_kit
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"\n"
+"when buying a complete equipment that has BoM Kit specified, if enabled, its parts will be generated automatically as child equipments\n"
+"according to the BoM Kit\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"\n"
+"Khi mua sản phẩm đồng bộ đã được thiết lập Bom Kit, nếu tạo thiết bị từ sản phẩm này, hệ thống sẽ đưa ra các tùy chọn xem có\n"
+"tạo các thiết bị khác là các thành phần trong Bom Kit hay không. Các thiết bị được tạo ra từ các thành phần trong Bom Kit sẽ\n"
+"có quan hệ cha con với thiết bị được tạo từ đơn hàng mua. \n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_stock_equipment_bom_kit
+msgid "Stock Equipment Bom Kit"
+msgstr "Tích hợp Thiết bị theo bộ và Kho"

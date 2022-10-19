@@ -1,0 +1,54 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_promotion_voucher_l10n_vn
+msgid ""
+"\n"
+"Default promotion voucher loss & profit accounts for Vietnam"
+msgstr ""
+"\n"
+"Tài khoản lỗ & lãi của phiếu khuyến mãi mặc định cho Việt Nam"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_promotion_voucher_l10n_vn
+msgid ""
+"\n"
+"This is a localized application that helps Promotion Voucher application get compatible with\n"
+"VAS (Vietnamese Accounting Standards)\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Đây là một mô-đun bản địa hóa cho ứng dụng Phiếu khuyến mãi, giúp tương thích với\n"
+"VAS (Chuẩn mực Kế toán Việt Nam) \n"
+"    \n"
+"Ấn bản hỗ trợ\n"
+"=============\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_promotion_voucher_l10n_vn
+msgid "Promotion Voucher - Vietnam Accounting"
+msgstr "Phiếu khuyến mãi - Kế toán Việt Nam "

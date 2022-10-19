@@ -1,0 +1,61 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_l10n_vn_hr_payroll_administrative_region
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* This module add Vietnam localized data for its administrative regions\n"
+"\n"
+"   * Maximum Labor Union Contribution per month by employees\n"
+"   * Minimum wage for each administrative region in Vietnam\n"
+"   * Minimum/Maximum Contribution Base for each contribution type according to Administrative Regions in Vietnam\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"* Module này cập nhật một số dữ liệu theo Vùng hành chính của Việt Nam:\n"
+"\n"
+"   * Mức đóng góp công đoàn tối đa mỗi tháng của nhân viên\n"
+"   * Mức lương tối thiểu cho từng vùng hành chính tại Việt Nam\n"
+"   * Cơ sở đóng góp tối thiểu / tối đa cho từng kiểu đóng góp theo vùng hành chính tại Việt Nam\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_l10n_vn_hr_payroll_administrative_region
+msgid "Localize the Payroll By Administrative Regions for Vietnam"
+msgstr "Bản địa hóa Bảng lương Theo Vùng Hành Chính cho Việt Nam"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_l10n_vn_hr_payroll_administrative_region
+msgid "Payroll By Administrative Regions - Vietnam"
+msgstr "Bảng lương Theo Vùng Hành Chính - Việt Nam"

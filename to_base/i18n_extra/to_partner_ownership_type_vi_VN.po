@@ -1,0 +1,61 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_partner_ownership_type
+msgid ""
+"\n"
+"Key Features\n"
+"=============\n"
+"* Add Business Ownership types on the Contact form. (Eg: Foreign Direct Investment, State Enterprises, Other Enterprises)\n"
+"* Search Contacts by Ownership types.\n"
+"* Manage ownership types.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"==================\n"
+"* Thêm trường Hình thức sở hữu doanh nghiệp trên hồ sơ Liên hệ. (Ví dụ: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp nhà nước, Doanh nghiệp-đơn vị-tổ chức khác)\n"
+"* Tìm kiếm Liên hệ theo hình thức sở hữu doanh nghiệp.\n"
+"* Quản lý Đối tác theo các hình thức sở hữu doanh nghiệp.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_partner_ownership_type
+msgid ""
+"\n"
+"Manage business ownership types"
+msgstr ""
+"\n"
+"Quản lý đối tác theo Hình thức sở hữu doanh nghiệp"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_partner_ownership_type
+msgid "Partner Ownership Type"
+msgstr "Quản Lý Hình Thức Sở Hữu"

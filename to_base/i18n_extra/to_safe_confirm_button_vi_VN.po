@@ -1,0 +1,70 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_safe_confirm_button
+msgid ""
+"\n"
+"    \n"
+"Key Features\n"
+"============\n"
+"* This application adds safe_confirm attribute to button tag to draw more attention from users. It is useful for action that could harm something \n"
+"* Example\n"
+"\n"
+".. code-block:: xml\n"
+"\n"
+"  <button name=\"action_clear_data\" type=\"object\" string=\"Clear Data\"\n"
+"      safe_confirm=\"Odoo will connect and clear all device data (include: user, attendance report, finger database). Do you want to proceed?\"\n"
+"      help=\"Clear all data from the device\" groups=\"hr_attendance.group_hr_attendance_manager\" />\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này thêm thuộc tính safe_confirm vào thẻ button để thu hút sự chú ý hơn từ người dùng. Nó rất hữu ích cho hành động có thể gây hại cho một cái gì đó\n"
+"\n"
+"Ví dụ\n"
+"=======\n"
+"    <button name=\"action_clear_data\" type=\"object\" string=\"Xoá Dữ Liệu\"\n"
+"        safe_confirm=\"Odoo sẽ kết nối và xóa tất cả dữ liệu thiết bị (bao gồm: user, attendance report, finger database). Bạn có muốn tiếp tục không?\"\n"
+"        help=\"Xóa tất cả dữ liệu khỏi thiết bị\" groups=\"hr_attendance.group_hr_attendance_manager\" />\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"==================\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_safe_confirm_button
+msgid ""
+"\n"
+"Draw more attention on dangerous confirmation action\n"
+"        "
+msgstr ""
+"\n"
+"Thu hút sự chú ý nhiều hơn vào hành động xác nhận nguy hiểm\n"
+"        "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_safe_confirm_button
+msgid "Safe Confirm Button"
+msgstr "Nút Xác Nhận An Toàn"

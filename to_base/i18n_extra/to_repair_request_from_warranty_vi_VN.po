@@ -1,0 +1,62 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_repair_request_from_warranty
+msgid ""
+"\n"
+"Generate a Repair Order from a Warranty Claim\n"
+"        "
+msgstr "Tạo Đơn sửa chữa từ Yêu cầu bảo hành"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_repair_request_from_warranty
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module helps create Repair Order from Warranty Claim\n"
+"\n"
+"* Add the button \"Create repair order\" on Warranty Claim form\n"
+"* Show the list of Repair orders related to Warranty Claim\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Mô-đun này cho phép tạo Lệnh sửa chữa từ Yêu cầu bảo hành\n"
+"\n"
+"* Thêm nút hành động \"Tạo lệnh sửa chữa\" trên form Yêu cầu bảo hành\n"
+"* Thống kê danh sách Lệnh sửa chữa liên quan đến yêu cầu bảo hành\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"=============\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_repair_request_from_warranty
+msgid "Repair Request from Warranty Claim"
+msgstr "Yêu cầu sửa chữa từ yêu cầu bảo hành"

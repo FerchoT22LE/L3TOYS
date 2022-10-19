@@ -1,0 +1,70 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:06+0000\n"
+"PO-Revision-Date: 2021-12-25 05:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_mrp_mps
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* Sometimes you need to create the purchase orders for the components of manufacturing orders that will only be created later, or for production orders where you will only have the sale orders later. \n"
+"* This module plans sales forecast to proactively create and purchase and manufacturing orders in advance to satisfy production demand.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"- Allow users to choose the products to add to the report\n"
+"- Allow users to choose the reporting period: day, week, month, etc.\n"
+"- Define safety stock, maximum/minimum quantity to supply and change the quantity to purchase\n"
+"- Allow manual override of the quantity to be purchased\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"\n"
+"Mô tả\n"
+"=====\n"
+"* Đôi khi bạn cần tạo đơn mua nguyên vật liệu, thiết bị... sau khi có lệnh sản xuất hoặc đơn sản xuất được tạo sau khi có đơn bán.\n"
+"* Mô-đun này sẽ lập kế hoạch dự báo bán hàng để chủ động tạo trước đơn sản xuất và đơn mua hàng cho phù hợp với nhu cầu sản xuất.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"- Cho phép tùy chọn các sản phẩm muốn thêm vào báo cáo\n"
+"- Cho phép chọn khoảng thời gian báo cáo: ngày, tuần, tháng, ... \n"
+"- Định nghĩa mức tồn kho an toàn, tối đa/tối thiểu để cung cấp và thay đổi số lượng định mua\n"
+"- Cho phép ghi đè thủ công số lượng sẽ mua\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_mrp_mps
+msgid "Master Production Schedule"
+msgstr "Kế hoạch Sản xuất Tổng thể"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_mrp_mps
+msgid "Master Production Scheduling with forecast"
+msgstr "Lập Kế hoạch Sản xuất Tổng thể theo dự báo"

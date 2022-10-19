@@ -1,0 +1,60 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_sales_unlink_stock
+msgid ""
+"\n"
+"Disallow to delete a sale order, which is being referred by any related delivery (stock transfer)."
+msgstr ""
+"\n"
+"Không cho phép xóa đơn bán có phiếu kho liên quan."
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_sales_unlink_stock
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"Disallows the deletion on a sale order, which is being referred by any related stock transfer. In such case, the system will instead display a relevant message pop-up to notify the user.\n"
+"\n"
+"Note: If you want to use this feature, you may enable it on Settings / Sales / Disallow to unlink SO relating Pickings.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Không cho phép xóa đơn bán có phiếu kho liên quan. Trong trường hợp trên, hệ thống sẽ hiển thị một cửa sổ thông báo tới người dùng.\n"
+"\n"
+"Ghi chú: Nếu bạn muốn sử dụng chức năng này, bạn có thể bật nó trong phần Cài đặt / Bán hàng / Không cho phép xóa đơn bán/dòng đơn bán còn hóa đơn liên quan\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_sales_unlink_stock
+msgid "Delete Sales Order - Check Stock Transfer"
+msgstr "Xoá Đơn Bán - Kiểm Tra Phiếu Kho"

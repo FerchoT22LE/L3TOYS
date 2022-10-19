@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:06+0000\n"
+"PO-Revision-Date: 2021-12-25 05:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_mrp_maintenance
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"Schedule and manage maintenance on machine and tools in the Manufacturing module\n"
+"\n"
+"Key features\n"
+"============\n"
+"- Preventive vs corrective maintenance\n"
+"- Define different stages for your maintenance requests\n"
+"- Plan maintenance requests (also recurring preventive)\n"
+"- Manage equipments related to workcenters\n"
+"- Track MTBF (Mean time between failures, MTTF (Mean time to failure), etc.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Lập kế hoạch và quản lý bảo trì máy móc, công cụ trong phân hệ Sản xuất\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"- Bảo trì phòng ngừa vs Bảo trì khắc phục\n"
+"- Xác định các giai đoạn khác nhau đối với các yêu cầu bảo trì\n"
+"- Lập kế hoạch yêu cầu bảo trì (đồng thời phòng ngừa định kỳ)\n"
+"- Quản lý các thiết bị liên quan đến năng lực sản xuất (Work center)\n"
+"- Theo dõi MTBF (thời gian trung bình giữa 2 lỗi), MTTR (thời gian mắc lỗi trung bình),... \n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_mrp_maintenance
+msgid "Maintenance - MRP"
+msgstr "Bảo trì - MRP"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_mrp_maintenance
+msgid "Schedule and manage maintenance on machine and tools."
+msgstr "Lập lịch và quản lý bảo trì máy móc và công cụ"

@@ -1,0 +1,53 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_odoo_module_sale_project
+msgid ""
+"\n"
+"Sell project specific apps"
+msgstr "Tích hợp bán ứng dụng với dự án"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_odoo_module_sale_project
+msgid ""
+"\n"
+"Sell your Odoo development/customization services and allow customer download the apps that were developed according to the ordered services\n"
+"\n"
+"Key Features\n"
+"============\n"
+"\n"
+"1. Assign Odoo Apps to Project Tasks\n"
+"2. Customer can download apps related to project tasks that have been invoiced and get paid.\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"    Bán các dịch vụ phát triển / tùy chỉnh Odoo của bạn và cho phép khách hàng tải xuống các ứng dụng được phát triển theo các dịch vụ được đặt hàng\n"
+"\n"
+"Các tính năng chính\n"
+"===================\n"
+"\n"
+"1. Gán ứng dụng Odoo cho các nhiệm vụ dự án\n"
+"2. Khách hàng có thể tải xuống các ứng dụng liên quan đến các nhiệm vụ dự án đã được lập hóa đơn và được thanh toán.\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_odoo_module_sale_project
+msgid "Odoo Apps Project Sales"
+msgstr "Tích hợp bán ứng dụng Odoo với Dự án"

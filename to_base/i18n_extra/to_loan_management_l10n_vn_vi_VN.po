@@ -1,0 +1,63 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_loan_management_l10n_vn
+msgid ""
+"\n"
+"Default Loan Order Template receivable & payable accounts for Vietnam"
+msgstr ""
+"\n"
+"Điền tài khoản phải thu, phải trả mặc định cho mẫu hợp đồng vay/cho vay theo chuẩn mực kế toán Việt Nam"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_loan_management_l10n_vn
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"Default Loan Order Template receivable & payable accounts for Vietnam\n"
+"\n"
+"* Loan Borrowing Contracts: account ```3411 Borrowing loans```\n"
+"* Loan Lending Contracts: account ```1283 Lending Loans```\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"Điền tài khoản phải thu, phải trả mặc định cho Hợp đồng Vay/Cho vay theo chuẩn mực kế toán Việt Nam\n"
+"\n"
+"* Hợp đồng Vay: tài khoản ```3411 Các khoản đi vay```\n"
+"* Hợp đồng Cho vay: tài khoản ```1283 Cho vay```\n"
+"    \n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_loan_management_l10n_vn
+msgid "Loan Management - Vietnam Accounting"
+msgstr "Quản Lý Khoản Vay - Kế Toán Việt Nam"

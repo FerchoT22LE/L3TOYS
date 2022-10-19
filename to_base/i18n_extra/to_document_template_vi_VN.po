@@ -1,0 +1,71 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_document_template
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module is to manage document templates, create new ones and preview them before exporting to pdf file.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Manage all the document templates in a place\n"
+"* Create document templates applied for different objects, like: sales of order, purchase of order, invoice, etc\n"
+"* Preview the created document before exporting to pdf file\n"
+"* This is a base module. Applying templates for objects depends on the intergration of relavtive modules\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Quản lý các mẫu tài liệu, tạo mới và xem trước khi xuất thành bản pdf.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Quản lý tất cả các mẫu tài liệu tại một nơi\n"
+"* Tạo mới một mẫu tài liệu gắn với một đối tượng trong phần mềm như đơn hàng bán, đơn hàng mua, hóa đơn, ...\n"
+"* Xem trước các mẫu tài liệu này trước khi xuất thành bản PDF\n"
+"* Đây là mô-đun cơ sở, việc có thể áp dụng mẫu tài liệu vào đối tượng nào phụ thuộc vào việc thích hợp với các mô-đun liên quan\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_document_template
+msgid "Document Templates Management"
+msgstr "Quản lý các mẫu tài liệu"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_document_template
+msgid ""
+"Manage document templates, allow users to create document templates and preview them before printing.\n"
+"        "
+msgstr ""
+"Quản lý các mẫu tài liệu, cho phép tạo và xem trước các mẫu tài liệu trước khi in.\n"
+"        "

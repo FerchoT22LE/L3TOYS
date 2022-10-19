@@ -1,0 +1,61 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_partner_business_type
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"* Add Business Type field on the Contact form.\n"
+"* Search Contacts by Business type.\n"
+"* Manage Business types.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Thêm trường Loại hình doanh nghiệp trên hồ sơ Liên hệ.\n"
+"* Tìm kiếm Liên hệ theo Loại hình doanh nghiệp.\n"
+"* Quản lý các loại hình doanh nghiệp.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_partner_business_type
+msgid ""
+"\n"
+"Manage business type"
+msgstr ""
+"\n"
+"Quản lý các loại hình doanh nghiệp"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_partner_business_type
+msgid "Partner Business Type Management"
+msgstr "Quản Lý Loại Hình Doanh Nghiệp"

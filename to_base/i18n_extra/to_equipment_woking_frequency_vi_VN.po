@@ -1,0 +1,61 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_equipment_woking_frequency
+msgid ""
+"\n"
+"Manage equipment working frequency"
+msgstr ""
+"\n"
+"Quản lý tần suất làm việc của thiết bị\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_equipment_woking_frequency
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* Add new field to product to define working frequency template\n"
+"* Add new field to equipment that get info from related product, user can modify the real number for each equipment\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"* Thêm trường để định nghĩa tần suất làm việc mặc định cho sản phẩm\n"
+"* Thêm trường lấy các thông tin về tần suất làm việc mặc định trên sản phẩm cho thiết bị, người dùng có thể thay đổi con số thực tế đối với mỗi thiết bị\n"
+"\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"=============\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_equipment_woking_frequency
+msgid "Equipment Working Frequency"
+msgstr "Tần Suất Làm Việc Của Thiết Bị"

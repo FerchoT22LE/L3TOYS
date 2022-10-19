@@ -1,0 +1,70 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_fleet_accounting_fleet_operation
+msgid ""
+"\n"
+"Integrate the module 'Fleet Operation & Planning' and the module Fleet Accounting"
+msgstr ""
+"Tích hợp mô-đun Hoạch định Hoạt động Đội phương tiện và mô-đun Kế Toán Đội "
+"Phương Tiện"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_fleet_accounting_fleet_operation
+msgid ""
+"\n"
+"Integrate the module 'Fleet Operation & Planning' and the module Fleet Accounting to declare costs of vehicle trips and manage vendor bills associated with such the cost\n"
+"\n"
+"Key Features\n"
+"============\n"
+"1. Manage vehicle trips' costs in accounting\n"
+"2. Manage Vendor bills related to your vehicle trips (generate vendor bills from trips)\n"
+"3. Allocate vendor bills to existing trips\n"
+"4. Analyse your trips costs with accounting\n"
+"5. Analyse your trips costs with analytics accounting\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tích hợp mô-đun 'Hoạch định Hoạt động Đội phương tiện' và mô-đun Kế Toán Đội Phương Tiện để kê khai chi phí của các chuyến và quản lý các hóa đơn của nhà cung cấp liên quan đến chi phí đó\n"
+"\n"
+"Các tính năng chính\n"
+"===================\n"
+"\n"
+"1. Quản lý chi phí của các chuyến trong kế toán\n"
+"2. Quản lý hóa đơn của nhà cung cấp liên quan đến các chuyến của bạn (tạo hóa đơn của nhà cung cấp từ các chuyến)\n"
+"3. Phân bổ hóa đơn của nhà cung cấp cho các chuyến hiện có\n"
+"4. Phân tích chi phí của các chuyến của bạn với kế toán\n"
+"5. Phân tích chi phí của các chuyến của bạn với kế toán quản trị\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_fleet_accounting_fleet_operation
+msgid "Fleet Operation Accounting"
+msgstr "Kế Toán Hoạt Động Đội Phương Tiện"

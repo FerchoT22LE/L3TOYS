@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_website_forum_security_groups
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module provides 2 new security groups for Forum feature:\n"
+"\n"
+"   - Forum/All Forums Moderator: Have full permissions on all forums, except configuring forum's settings.\n"
+"   - Forum/Administrator: Have full permissions on all forums, include configuring moderators and other \n"
+"     settings.\n"
+"\n"
+"You can also manually add moderators for each forum in its configuration.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Mô đun này cung cấp thêm 2 nhóm phân quyền cho tính năng Diễn đàn:\n"
+"\n"
+"   - Diễn đàn/Điều hành tất cả diễn đàn: Có toàn quyền trên tất cả các diễn đàn, trừ việc cấu hình chúng.\n"
+"   - Diễn đàn/Quản trị viên: Có toàn quyền trên tất cả các diễn đàn, bao gồm cả việc cấu hình người điều hành\n"
+"     và các thiết lập khác.\n"
+"\n"
+"Bạn cũng có thể thêm thủ công người điều hành cho từng diễn đàn ở phần thiết lập của diễn đàn đó.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_website_forum_security_groups
+msgid "Forum - Security Groups"
+msgstr "Phân quyền cho Diễn đàn"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_website_forum_security_groups
+msgid ""
+"Provides security groups with different levels of permissions for forum "
+"feature."
+msgstr ""
+"Cung cấp các nhóm quyền với các cấp quyền hạn khác nhau cho tính năng diễn "
+"đàn"

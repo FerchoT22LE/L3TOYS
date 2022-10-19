@@ -1,0 +1,65 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_fleet_driver
+msgid ""
+"\n"
+"What is does\n"
+"============\n"
+"This module, by integrating HR module and Fleet Management module and adding new features, allows you to manage all people (including your employees and subcontors' drivers) who serve your fleet as drivers\n"
+"\n"
+"Key Features\n"
+"------------\n"
+"* Each driver associated with a partner and an employee (if the driver is an employee of the company's)\n"
+"* Manage your drivers license and its expiration date\n"
+"* Default data for driver lincense classes: A1, A2, B1, B2,...\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Module này làm gì\n"
+"=================\n"
+"Mô-đun này tích hợp mô-đun Nhân Sự và mô-đun Quản lý Đội Phương Tiện và thêm các tính năng mới, cho phép bạn quản lý tất cả mọi người (bao gồm cả nhân viên và tài xế) mà phục vụ đội phương tiện của bạn làm tài xế\n"
+"\n"
+"Tính năng chính\n"
+"---------------\n"
+"* Mỗi tài xế liên kết với đối tác và nhân viên (nếu tài xế là nhân viên của công ty)\n"
+"* Quản lý giấy phép lái xe của tài xế và ngày hết hạn\n"
+"* Dữ liệu mặc định cho hạng giấy phép lái xe: A1, A2, B1, B2,...\n"
+"\n"
+"Phiên bản hỗ trợ\n"
+"================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_fleet_driver
+msgid "Fleet Drivers Management"
+msgstr "Quản Lý Lái Xe Của Đội Phương Tiện"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_fleet_driver
+msgid "Manage drivers of your fleet"
+msgstr "Quản lý lái xe của đội phương tiện của bạn"

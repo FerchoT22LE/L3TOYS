@@ -1,0 +1,58 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_survey_recompute_results
+msgid ""
+"\n"
+"Recompute answer score of results of survey.\n"
+"        "
+msgstr ""
+"\n"
+"Tính lại điểm của kết quả khảo sát.\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_survey_recompute_results
+msgid ""
+"\n"
+"Sometimes answers score were wrong and we need recompute results from survey. This module provide a button on survey form \n"
+"to allow recompute results after correct answers\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Đôi khi việc tính điểm của các câu trả lời bị sai với lý do các thiết lập trước đó trên survey bị sai. Khi đó, \n"
+"chúng ta cần điều chỉnh lại các câu trả lời trên form Khảo sát và tính toán lại điểm của các kết quả đã hoàn thành trước đó.\n"
+"Mô đun này cung câp thêm một nút trên form Khảo sát để tính toán lại điểm của các kết quả đã có sau khi điều chỉnh lại Khảo sát.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_survey_recompute_results
+msgid "Survey Results Recomputation"
+msgstr "Tính lại kết quả khảo sát"

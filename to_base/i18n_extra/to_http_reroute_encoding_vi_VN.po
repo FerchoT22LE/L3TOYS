@@ -1,0 +1,69 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_http_reroute_encoding
+msgid ""
+"\n"
+"The problem\n"
+"===========\n"
+"For multi language website, when request http:/localhost/en/something, Odoo  reroutes from the requested path \"/en/something\" to the new path \"/something\" with lang=en_US in context.\n"
+"\n"
+"If the new path is a unicode string like \"/xin-chào\", a error should occur at werkzeug._compat.wsgi_decoding_dance() because the path was not latin1 string.\n"
+"\n"
+"Related issue: https://github.com/odoo/odoo/issues/25176\n"
+"\n"
+"The Solution\n"
+"============\n"
+"This module fixes the issue by converting the path to latin1 using corresponding wsgi_encoding_dance() before it is passed to wsgi_decoding_dance().\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Vấn đề\n"
+"======\n"
+"Đối với trang web đa ngôn ngữ, khi có yêu cầu đến http://localhost/en/something, Odoo định tuyến lại từ đường dẫn được yêu cầu \"/en/something\" đến đường dẫn mới \"/something\" với lang=en_US trong ngữ cảnh.\n"
+"\n"
+"Nếu đường dẫn mới là một chuỗi unicode như \"/xin-chào\", lỗi sẽ xảy ra tại werkzeug._compat.wsgi_decoding_dance() vì đường dẫn không phải là chuỗi latin1.\n"
+"\n"
+"Vấn đề liên quan: https://github.com/odoo/odoo/issues/25176\n"
+"\n"
+"Giải pháp\n"
+"=========\n"
+"Mô-đun này khắc phục sự cố bằng cách chuyển đổi đường dẫn thành chuỗi latin1 bằng cách sử dụng wsgi_encoding_dance() tương ứng trước khi nó được chuyển đến wsgi_decoding_dance().\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_http_reroute_encoding
+msgid "Fix URL encoding error on rerouting"
+msgstr "Sửa lỗi mã hóa URL khi định tuyến lại"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_http_reroute_encoding
+msgid "Http Reroute Encoding"
+msgstr "Mã hóa URL khi Định tuyến lại"

@@ -1,0 +1,63 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_stock_internal_transit_valuation
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* Unhide stock valuation account fields on the location form with usage = transit (transit location).\n"
+"* This provides more control on stock input/output valuation during accounting journal entries creation.\n"
+"* Automatically create accounting entries when validating stock move between internal and transit locations.\n"
+"* Create stock valuation layer for changing stock valuation of products.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"* Bỏ ẩn các trường tài khoản định giá tồn kho trên biểu mẫu địa điểm với usage = transit (địa điểm chuyển tiếp).\n"
+"* Điều này cung cấp thêm quyền kiểm soát đối với định giá nhập / xuất tồn kho trong quá trình tạo bút toán kế toán. \n"
+"* Tự động tạo bút toán kế toán khi thực hiện dịch chuyển kho giữa các địa điểm kiểu nội bộ và chuyển tiếp (theo 2 chiều)\n"
+"* Tạo các bản ghi stock valuation layer để thể hiện việc thay đổi giá trị hàng hóa trong kho\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_stock_internal_transit_valuation
+msgid ""
+"Automatically create accounting entries when validating stock move between "
+"internal and transit locations."
+msgstr ""
+"Tự động tạo bút toán kế toán khi thực hiện dịch chuyển kho giữa các địa điểm kiểu nội bộ và chuyển tiếp (theo 2 chiều)\n"
+"        "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_stock_internal_transit_valuation
+msgid "Stock Internal Transit Valuation"
+msgstr "Định Giá Chuyển Tiếp Kho"

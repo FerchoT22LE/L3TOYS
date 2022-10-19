@@ -1,0 +1,60 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_website_livechat
+msgid ""
+"\n"
+"Advanced Livechat features additional to the Odoo core's\n"
+msgstr ""
+"\n"
+"Thêm các tính năng livechat bổ sung cho tính năng mặc định của Odoo\n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_website_livechat
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"\n"
+"1. Internal Operators can now trigger chat window open with visitors.\n"
+"2. Multilingual Livechat supports\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"\n"
+"1. Cho phép người dùng nội bộ khởi chạy cửa sổ chat với khách ghé thăm website\n"
+"2. Hỗ trợ đa ngôn ngữ cho cửa sổ chat\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_website_livechat
+msgid "Viin - Website Live Chat"
+msgstr "Viin - Chat trực tuyến trên website"

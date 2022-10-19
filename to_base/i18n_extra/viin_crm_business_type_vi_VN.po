@@ -1,0 +1,57 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_crm_business_type
+msgid ""
+"\n"
+"Add field 'Business type' to CRM form"
+msgstr ""
+"\n"
+"Thêm trường 'Loại hình doanh nghiệp' trên form CRM"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_crm_business_type
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"Add the 'Business Type' field including a name and description to CRM form for users to have a better understanding of their customer persona.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Thêm trường 'Loại hình doanh nghiệp' bao gồm tên và mô tả vào biểu mẫu CRM để người dùng hiểu rõ hơn về chân dung khách hàng của họ.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_crm_business_type
+msgid "CRM - Business Type"
+msgstr "CRM - Loại Hình Doanh Nghiệp"

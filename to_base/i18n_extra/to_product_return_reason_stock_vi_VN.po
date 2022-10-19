@@ -1,0 +1,63 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_product_return_reason_stock
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"\n"
+"1. Users can defined unique Product Return Reasons\n"
+"2. Inventory Managers can set 'Return Reason Required' for a specific Return Operation so that Product Returns\n"
+"   of that operation always required inventory users to specify a reason during return processing\n"
+"3. Analyze Stock Moves by Return Reasons\n"
+"4. Analyze Stock Pickings by Return Reasons\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính Năng\n"
+"=========\n"
+"\n"
+"1. Người dùng có thể định nghĩa lý do trả lại hàng\n"
+"2. Quản lý kho có thể chỉ định 'Cần Lý Do Trả Lại' cho hành động trả lại để khi sản phẩm bị trả lại\n"
+"   người dùng phải nêu lý do vì sao sản phẩm đó bị trả lại\n"
+"3. Phân tích dịch chuyển kho theo lý do trả hàng\n"
+"4. Phân tích giao nhận hàng theo lý do trả hàng\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"==================\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_product_return_reason_stock
+msgid "Product Return Reasons - Inventory"
+msgstr "Lý Do Trả Hàng - Hàng Tồn Kho"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_product_return_reason_stock
+msgid "Specify a reason during stock return"
+msgstr "Chỉ ra lý do trả về kho"

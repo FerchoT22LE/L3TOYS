@@ -1,0 +1,70 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-27 02:04+0000\n"
+"PO-Revision-Date: 2022-05-27 02:04+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_hr_training
+msgid ""
+"\n"
+"\n"
+"Key Features\n"
+"============\n"
+"\n"
+"- Choose the courses per employee's position and rank when HR installs information on the *Employee* app\n"
+"- Automatically calculate the corresponding courses for current rank and courses for next targeted rank when HR installs information in the *Employee* app\n"
+"- Courses for the current rank consist of courses for the employee's current rank and courses for all of the lower ranks\n"
+"- Courses for the next goal rank consist courses for the higher rank next to the existing rank of the employee\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"\n"
+"- Chọn các khóa học cho từng chức vụ và chức danh khi Nhân sự cài đặt thông tin trên ứng dụng *Nhân viên*\n"
+"- Tự động tính toán các khóa học tương ứng cho chức danh hiện hành và chức danh mục tiêu kế tiếp khi Bộ phận Nhân sự cài đặt thông tin trên ứng dụng *Nhân viên*\n"
+"- Các khóa học cho chức danh hiện hành bao gồm các khóa học cho chức danh hiện hành của nhân viên và các khóa học của tất cả chức danh thấp hơn của nhân viên đó\n"
+"- Các khóa học cho chức danh mục tiêu kế tiếp bao gồm các khóa học cho chức danh có cấp bậc cao hơn liền kề với chức danh hiện tại của nhân viên\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_hr_training
+msgid ""
+"\n"
+"Manage courses for each position, each rank\n"
+msgstr ""
+"\n"
+"Quản lý các khóa học cho từng chức vụ, từng chức danh\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_hr_training
+msgid "HR Employee Training"
+msgstr "Đào Tạo Nhân Viên"

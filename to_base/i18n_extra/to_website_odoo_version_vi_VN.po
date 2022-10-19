@@ -1,0 +1,65 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_website_odoo_version
+msgid ""
+"\n"
+"Technical module to integrates Odoo Version and Website"
+msgstr "Module kĩ thuật để tích hợp Phiên bản Odoo vào Website"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_website_odoo_version
+msgid ""
+"\n"
+"What is does\n"
+"============\n"
+"This is a technical module that provides technical helps for features related to Odoo versions and websites. It does nothing visually.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"- Update the description of different Odoo versions \n"
+"- Show the differences among versions\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Đây là một module kĩ thuật chủ yếu cung cấp các trợ giúp kĩ thuật cho tính năng liên quan đến Phiên bản Odoo và websites.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"- Cập nhật phần mô tả cho các phiên bản Odoo khác nhau\n"
+"- Phân biệt sự khác nhau giữa các phiên bản. \n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_website_odoo_version
+msgid "Website Odoo Version"
+msgstr ""

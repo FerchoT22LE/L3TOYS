@@ -1,0 +1,61 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_wallet
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* Record a payment to eWallet of partner. If the partner is a contact of a company, then it record to wallet of the company\n"
+"* Support multi eWallet per currency\n"
+"* Allow share eWallet for contacts in the same commercial partner\n"
+"* Portal users can view and deposit to thier eWallets through a payment aquire.\n"
+"* eWallet can be use to reconcile invoices\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Module này làm gì\n"
+"=================\n"
+"* Khi nhận một khoản thanh toán vào ví điện từ của đối tác. Nếu đối tác đó là cá nhân của một công ty thì số tiền sẽ được ghi nhận vào ví điện tử của công ty đó.\n"
+"* Hỗ trợ đa tiền tệ. Mỗi tiền tệ là một ví điện tử tương ứng.\n"
+"* Cho phép chia sẻ ví điện tử cho các cá nhân trong cùng một công ty.\n"
+"* Người dùng portal có thể xem và nạp tiền vào ví thông qua các cổng thanh toán.\n"
+"* Ví điện tử có thể được sử dụng để đối soát với các hóa đơn\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_wallet
+msgid "Deposit to eWallet of Commercial Partner"
+msgstr "Nạp tiền vào ví đối tác"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_wallet
+msgid "eWallet"
+msgstr "Ví điện tử"

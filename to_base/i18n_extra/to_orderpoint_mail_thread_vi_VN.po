@@ -1,0 +1,68 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_orderpoint_mail_thread
+msgid ""
+"\n"
+"\n"
+"What it does\n"
+"============\n"
+"- Modification of Reordering Rules (also known as min./max. stock rules) will affect your supply chain which may harm your business. Tracking changes (who did it, what the old value was, etc) could protect your business from unexpected changes.\n"
+"- Normally, users with Admin access can modify the Reordering Rules. However, by default, these changes (who made it, how old the rule was, etc) are not logged. This module helps to log all changes made to Reordering Rules in the Chatter area.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"- Create the Chatter area in the Reordering Rule section\n"
+"- Log all changes made to the Reordering Rule in the Chatter area: who changed it, the old - new value of the rule, when it was changed\n"
+"- Allows users to communicate in the Chatter area\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"\n"
+"Mô tả\n"
+"=====\n"
+"- Việc sửa đổi Quy tắc tái cung ứng (còn được gọi là quy tắc tồn kho tối thiểu/ tối đa) sẽ ảnh hưởng đến chuỗi cung ứng và có thể gây hại cho doanh nghiệp. Việc theo dõi các thay đổi trong Quy tắc tồn kho có thể bảo vệ doanh nghiệp khỏi những thay đổi bất ngờ ngoài ý muốn.\n"
+"- Thông thường, người dùng có quyền Admin có thể thay đổi Quy tắc tồn kho. Tuy nhiên, hệ thống mặc định không ghi lại các thay đổi này (ai đã thực hiện, giá trị cũ của quy tắc là bao nhiêu, v.v). Mô-đun này giúp ghi lại lịch sử thay đổi Quy tắc tồn kho trong vùng Chatter. \n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"- Tạo vùng Chatter trong mục Quy tắc tồn kho\n"
+"- Ghi lại lịch sử thay đổi Quy tắc tồn kho trong vùng Chatter: ai là người thay đổi, giá trị cũ - mới của quy tắc là bao nhiêu, thay đổi vào thời gian nào\n"
+"- Cho phép người dùng trao đổi trực tiếp trong vùng Chatter \n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_orderpoint_mail_thread
+msgid "Add mail thread and track changes on Reordering Rules"
+msgstr "Thêm mail thread và theo dõi lịch sử thay đổi Quy tắc tồn kho"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_orderpoint_mail_thread
+msgid "Track Changes in Reordering Rules"
+msgstr "Theo dõi lịch sử thay đổi Quy tắc tồn kho"

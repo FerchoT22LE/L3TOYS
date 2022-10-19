@@ -1,0 +1,68 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_hr_payroll_administrative_region
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module integrates the Payroll app and Administrative Region app to get payroll calculation to respect min/max wage and employee contributions according to administrative region rules.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"1. Minimum basic wage for employees in specific administrative regions\n"
+"2. Mininum and maximum contributions (e.g. social insurance, unemployment insurance, etc) by employees and company according to  administrative regions specified\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Module này tích hợp ứng dụng Bảng lương và ứng dụng Quản lý Vùng Hành chính để giới hạn lương tối thiểu và các khoản đóng góp từ lương tối thiểu/tối đa theo quy tắc vùng hành chính.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"1. Lương tối thiểu vùng\n"
+"2. Đóng góp tối thiểu / tối đa theo vùng đối với các khoản đóng góp trích từ lương (vd: bảo hiểm xã hội, bảo hiểm thất nghiệp, v.v.)\n"
+"\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_hr_payroll_administrative_region
+msgid ""
+"Integrate the Payroll app and the Administrative Region app for applying "
+"administrative rules for salary and employee contribution calculation."
+msgstr ""
+"Tích hợp ứng dụng Bảng lương và ứng dụng Quản lý Vùng Hành chính để tính "
+"lương và các khoản đóng góp từ lương theo quy tắc vùng hành chính."
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_hr_payroll_administrative_region
+msgid "Payroll By Administrative Regions"
+msgstr "Bảng lương Theo Vùng Hành Chính"

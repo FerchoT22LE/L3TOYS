@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_administrative_region
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"The module provides administrative region management features.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Administrative region management\n"
+"* Default data for administrative regions in Vietnam. Others' can be added manually with the software UI.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Phân hệ cung cấp tính năng quản lý Vùng hành chính\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Quản lý Vùng hành chính\n"
+"* Nạp sẵn dữ liệu vùng hành chính cho Việt Nam. Vùng hành chính của các quốc gia khác (nếu áp dụng) có thể được thêm thủ công trong phần mềm)\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_administrative_region
+msgid "Administrative Region Management"
+msgstr "Quản lý Vùng Hành Chính"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_administrative_region
+msgid ""
+"Manage country's administrative regions which may differ from country's "
+"geographic regions in some countries"
+msgstr ""
+"Quản lý vùng hành chính quốc gia, có thể khác với các vùng địa lý ở một số "
+"quốc gia"

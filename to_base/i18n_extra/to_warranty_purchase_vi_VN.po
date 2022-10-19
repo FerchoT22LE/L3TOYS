@@ -1,0 +1,63 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_warranty_purchase
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"* This module depends on to_warranty_management module to apply to the Purchase module\n"
+"* When confirming the purchase order, the warranty policy applied to the product will be automatically included in the order line (policies applicable to Purchase only).\n"
+"* When creating a warranty claim for a predefined purchase order, the warranty policy applied to this purchase order will be automatically converted to the warranty claim.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Module này được phát triển dựa trên module to_warranty_management để áp dụng cho phân hệ mua hàng.\n"
+"* Khi xác nhận đơn hàng mua, tự động đưa các chính sách bảo hành áp dụng cho sản phẩm vào dòng đơn hàng (chỉ các chính sách áp dụng cho Mua hàng). \n"
+"* Khi tạo yêu cầu bảo hành nếu có thông tin về đơn hàng mua, hệ thống sẽ tự động lấy chính sách bảo hành áp dụng cho đơn hàng mua này sang yêu cầu bảo hành.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_warranty_purchase
+msgid ""
+"\n"
+"Warranty management for purchases\n"
+"        "
+msgstr ""
+"\n"
+"Quản lý bảo hành cho mua hàng\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_warranty_purchase
+msgid "Purchase Warranty"
+msgstr ""

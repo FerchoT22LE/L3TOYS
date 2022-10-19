@@ -1,0 +1,65 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_refund_account
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* By default, Odoo posts the amounts back to the original income/expense account when validating refund invoices.\n"
+"* This module will allow you to sepecify different accounts for income and expense refunds.\n"
+"\n"
+"Instructions:\n"
+"-------------\n"
+"* Income/Expense Refund Accounts must be set on the product or its category. Otherwise, it will fall back to the Odoo's default behaviour\n"
+"* Invoices without a product specified, the refund account will be taken from the journal entry of the correspoding original invoice.\n"
+"* In multi-company environment, the refund accounts are company specific.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"* Theo mặc định, Odoo gửi số tiền trở lại tài khoản doanh thu/chi phí ban đầu khi xác thực hoàn tiền hóa đơn.\n"
+"* Module này sẽ cho phép bạn phân tách các tài khoản khác nhau để hoàn tiền doanh thu và chi phí.\n"
+"\n"
+"Hướng dẫn:\n"
+"----------\n"
+"* Tài khoản hoàn tiền doanh thu/chi phí phải được đặt trên sản phẩm hoặc danh mục của nó. Nếu không, nó sẽ quay trở lại hành vi mặc định của Odoo.\n"
+"* Hóa đơn không sản phẩm được chỉ định, tài khoản hoàn tiền sẽ được lấy từ bút toán sổ nhật ký của hóa đơn gốc.\n"
+"* Trong môi trường nhiều công ty, các tài khoản hoàn tiền là công ty cụ thể.\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"=============\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"\n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_refund_account
+msgid "Different Accounts for Refunding income and expense"
+msgstr "Các tài khoản khác nhau cho việc Hoàn tiền doanh thu và chi phí"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_refund_account
+msgid "Refund Accounts"
+msgstr "Tài khoản hoàn tiền"

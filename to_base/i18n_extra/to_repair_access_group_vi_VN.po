@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_repair_access_group
+msgid ""
+"\n"
+"Create new access group to grant access to Repair application\n"
+"    "
+msgstr ""
+"\n"
+"Tạo nhóm truy cập mới để cấp quyền truy cập vào ứng dụng Sửa chữa\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_repair_access_group
+msgid ""
+"\n"
+"The Problem\n"
+"===========\n"
+"By default, only inventory users have access rights to Repair application. In many organization, a person in charge of repair may not have access right to inventory.\n"
+"\n"
+"What it does\n"
+"============\n"
+"This module come to solve such issue by adding a new access group so that any one can be granted with access to Repair application when needed, without granted access to Inventory.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Đặt vấn đề\n"
+"==========\n"
+"Theo mặc định, chỉ người dùng kho mới có quyền truy cập vào ứng dụng Sửa chữa. Trong nhiều tổ chức, một người phụ trách sửa chữa có thể không có quyền truy cập vào kho.\n"
+"\n"
+"Module này làm gì\n"
+"=================\n"
+"Mô-đun này giải quyết vấn đề như vậy bằng cách thêm một nhóm truy cập mới để bất kỳ ai cũng có thể được cấp quyền truy cập vào ứng dụng Sửa chữa khi cần, mà không được cấp quyền truy cập vào Kho.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_repair_access_group
+msgid "Repair Access"
+msgstr "Quyền Sửa Chữa"

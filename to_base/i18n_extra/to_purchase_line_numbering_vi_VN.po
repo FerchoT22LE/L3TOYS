@@ -1,0 +1,60 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_purchase_line_numbering
+msgid ""
+"\n"
+"\n"
+"Key features\n"
+"============\n"
+"Show lines numbering on Purchases Order form and Purchases Request for Quotation PDF version\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Hiển thị số dòng trên form Đơn mua và Yêu cầu mua cho bản in PDF báo giá\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"Mô-đun này giúp hiển thị số thứ tự các dòng trong Đơn mua và Yêu cầu báo giá định dạng PDF\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"=============\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_purchase_line_numbering
+msgid ""
+"\n"
+"Enable Numbering on Purchases Lines"
+msgstr ""
+"\n"
+"Cho phép đánh số trên các dòng đơn mua"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_purchase_line_numbering
+msgid "Purchases Lines Numbering"
+msgstr "Đánh số dòng đơn mua"

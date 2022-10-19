@@ -1,0 +1,65 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_website_docs_odoo_data
+msgid ""
+"\n"
+"Default category data for Odoo documentation"
+msgstr "Quản lý Danh mục tài liệu trên Website theo phiên bản Odoo"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_website_docs_odoo_data
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"* This module will automatically pre-install for you nearly 40 document categories to start using right away on the Website module.\n"
+"* These categories are divided into two main sections:\n"
+"\n"
+"    * Odoo User Documentation/Practical Information: includes general categories such as Getting Started, Process Management, Legal, Contributing, etc.\n"
+"    * Odoo User Documentation/Applications: includes categories containing system modules such as Purchase, Inventory, Accounting, etc. \n"
+"\n"
+"* You can delete/edit/create/import/export these categories as you wish.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Mô-đun này sẽ tự động cài đặt sẵn cho bạn gần 40 danh mục tài liệu để bắt đầu sử dụng ngay trên phân hệ Website. \n"
+"* Các danh mục được chia làm 2 phân khúc chính: \n"
+"\n"
+"    * Hướng dẫn Người dùng Odoo/Thông tin thực nghiệm: gồm có những danh mục chung như Những bước đầu tiên, Quản lý quy trình, Luật định, Đóng góp,...\n"
+"    * Hướng dẫn Người dùng Odoo/Các ứng dụng: gồm có những danh mục chứa các phân hệ của hệ thống như Mua, Kho vận, Kế toán,...\n"
+"\n"
+"* Bạn có thể xóa/sửa/thêm/nhập/trích xuất các danh mục theo ý muốn.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_website_docs_odoo_data
+msgid "Website Document Odoo Category Data"
+msgstr "Quản Lý Danh mục tài liệu Website theo phiên bản Odoo"

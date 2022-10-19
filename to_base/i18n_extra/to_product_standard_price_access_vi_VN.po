@@ -1,0 +1,72 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_product_standard_price_access
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* By default, users who are authorized to view Products can see the Cost field on the Product form view.\n"
+"* However, that information should not be shared to all users, because it also affects the pricing policy and business strategy of the Enterprise.\n"
+"* The ```to_product_standard_price_access``` module will restrict users from accessing the product's Cost field.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* This module creates a new access group named \"Product Standard Price Access\" and grants the group access to the field Cost on the product form & tree view.\n"
+"* In other words, after installing this module, only users that are granted into the group \"Product Standard Price Access\" can see the Cost field on the product form & tree view.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"* Theo mặc định, những người dùng được cấp quyền vào xem Sản phẩm đều thấy được trường Giá vốn trên form Sản phẩm.\n"
+"* Tuy nhiên, không phải tất cả người dùng thấy được thông tin đó đều tốt vì nó còn ảnh hưởng đến chính sách giá và chiến lược kinh doanh của Doanh nghiệp.\n"
+"* Mô-đun ```to_product_standard_price_access``` sẽ hạn chế người dùng truy cập đến trường Giá vốn của sản phẩm.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"\n"
+"* Sau khi cài đặt, mô-đun này sẽ tạo mới nhóm \"Truy Cập Giá Tiêu Chuẩn Sản Phẩm\" trong phần Thiết lập Người dùng và cấp cho nhóm đó quyền truy cập đến trường Giá vốn trên form & danh sách Sản phẩm.\n"
+"* Nói cách khác, chỉ có người dùng thuộc nhóm \"Truy Cập Giá Tiêu Chuẩn Sản Phẩm\" mới có thể nhìn thấy trường thông tin này.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_product_standard_price_access
+msgid "Product's Cost Access"
+msgstr "Truy cập Giá vốn Sản phẩm"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_product_standard_price_access
+msgid ""
+"Restrict access to product's Cost field\n"
+"       "
+msgstr ""
+"Hạn chế truy cập đến trường Giá vốn của sản phẩm \n"
+"    "

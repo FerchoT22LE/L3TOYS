@@ -1,0 +1,60 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-28 07:32+0000\n"
+"PO-Revision-Date: 2022-04-28 07:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_hr_overtime_attendance
+msgid ""
+"\n"
+"    \n"
+"Key Features\n"
+"============\n"
+"After this module is installed, the actual overtime work will be recognized by matching planned overtime registration with the actual attendance log.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"    \n"
+"Tính năng nổi bật\n"
+"=================\n"
+"Sau khi mô-đun này được cài đặt, thời gian tăng ca thực tế sẽ được ghi nhận bằng cách khớp các đăng ký tăng ca được lên kế hoạch sẵn với dữ liệu vào ra.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_hr_overtime_attendance
+msgid ""
+"\n"
+"Integrate Overtime Management app with Attendance app for auto actual overtime recognition with attendance log "
+msgstr ""
+"\n"
+"Tích hợp ứng dụng quản lý tăng ca với Vào/Ra để tự động nhận diện giờ tăng ca thực tế\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_hr_overtime_attendance
+msgid "Overtime Attendance"
+msgstr "Điểm danh tăng ca"

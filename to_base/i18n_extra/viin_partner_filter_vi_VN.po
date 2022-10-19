@@ -1,0 +1,71 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-01 07:56+0000\n"
+"PO-Revision-Date: 2022-04-01 07:56+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_partner_filter
+msgid ""
+"\n"
+"Support filtering partner by phone or mobile criteria\n"
+"        "
+msgstr ""
+"\n"
+"Hỗ trợ lọc đối tác theo tiêu chí số điện thoại hoặc di động\n"
+"         "
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_partner_filter
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* Support filtering partner by phone or mobile criteria when it contains especial characters as: -, \\*, :, ., (,)........\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Filtering partner by phone criteria\n"
+"* Filtering partner by mobile criteria\n"
+"* Filtering partner by phone or mobile criteria\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"* Hỗ trợ lọc đối tác theo tiêu chí số điện thoại hoặc di động khi số điện thoại hoặc di động chứa các kí tự đặc biệt như: -, \\*, :, ., (,)........\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Hỗ trợ lọc đối tác theo tiêu chí số điện thoại\n"
+"* Hỗ trợ lọc đối tác theo tiêu chí số di động\n"
+"* Hỗ trợ lọc đối tác theo tiêu chí số điện thoại hoặc di động\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_partner_filter
+msgid "Partner Filtering"
+msgstr "Lọc đối tác"

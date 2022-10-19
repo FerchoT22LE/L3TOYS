@@ -1,0 +1,59 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-23 03:08+0000\n"
+"PO-Revision-Date: 2022-04-23 03:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_l10n_vn_viin_edi
+msgid ""
+"\n"
+"Some common fields of e-Invoice\n"
+"    "
+msgstr ""
+"\n"
+"Một số trường chung của hóa đơn điện tử\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,description:base.module_l10n_vn_viin_edi
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"Add some common fields of e-invoice\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Thêm một số trường chung cho hóa đơn điện tử\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_l10n_vn_viin_edi
+msgid "E-Invoice common"
+msgstr "Thông tin chung của hóa đơn điện tử"

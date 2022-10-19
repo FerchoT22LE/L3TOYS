@@ -1,0 +1,60 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:06+0000\n"
+"PO-Revision-Date: 2021-12-25 05:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_purchase_receipt
+msgid ""
+"\n"
+"Create purchase receipts from purchase order"
+msgstr ""
+"\n"
+"Tạo biên lai mua hàng từ đơn mua"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_purchase_receipt
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* This module allows purchasing staff to create purchase receipt from the Purchase Order screen, similar to create invoices from PO.\n"
+"* If the PO already has an invoice, you cannot create a receipt and vice versa\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Module này làm gì\n"
+"=================\n"
+"\n"
+"* Ứng dụng này cho phép nhân viên mua hàng tạo biên lai mua hàng từ màn hình PO, tương tự vói tạo hóa đơn từ PO.\n"
+"* Nếu đơn mua đã có hóa đơn, bạn không thể tạo biên lai và ngược lại.\n"
+"    \n"
+"Ấn bản hỗ trợ\n"
+"=============\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_purchase_receipt
+msgid "Purchase Receipt from Purchase Order"
+msgstr "Tạo Biên lai mua hàng từ Đơn mua"

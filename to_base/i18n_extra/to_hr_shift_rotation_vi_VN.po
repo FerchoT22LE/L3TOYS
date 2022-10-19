@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_hr_shift_rotation
+msgid ""
+"\n"
+"What it does\n"
+"============   \n"
+"Managing weekly work schedule, shift work rules of employees:\n"
+"\n"
+"    * Allow to create, edit weekly work schedule for employees.\n"
+"    * Allow quick creation of work schedules for multiple employees.\n"
+"    * Manage rules, working time, leaves.\n"
+"    * Attaching this module needs to integrate with related modules in odoo.\n"
+"    \n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition.\n"
+"2. Enterprise Edition.\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Module này làm gì\n"
+"=================\n"
+"Quản lý ca làm việc hàng tuần, các quy tắc luân chuyển ca làm việc của nhân viên:\n"
+"\n"
+"    * Cho phép tạo, chỉnh sửa ca làm việc hàng tuần cho nhân viên.\n"
+"    * Cho phép tạo nhanh các ca làm việc cho nhiều nhân viên.\n"
+"    * Quản lý các quy định, thời gian làm việc, xin nghỉ.\n"
+"    * Việc cài đặt module này cần tích hợp với các module liên quan trong odoo.\n"
+"\n"
+"Phiên bản được hỗ trợ\n"
+"=====================\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_hr_shift_rotation
+msgid "HR Shift Rotation"
+msgstr "Luân chuyển ca"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_hr_shift_rotation
+msgid ""
+"Managing weekly work schedule, working rules of employees.\n"
+"        "
+msgstr ""
+"Quản lý ca làm việc hàng tuần, các quy tắc, tiêu chuẩn làm việc của nhân viên.\n"
+"        "

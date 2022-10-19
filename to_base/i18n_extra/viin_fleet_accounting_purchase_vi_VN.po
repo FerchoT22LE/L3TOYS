@@ -1,0 +1,61 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_fleet_accounting_purchase
+msgid ""
+"\n"
+"Fleet, Accounting, Purchase\n"
+"    "
+msgstr ""
+"\n"
+"Đội phương tiện, Kế toán, Mua\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_fleet_accounting_purchase
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"Bridge between Fleet Accounting and Purchase\n"
+"* Generate access right to Fleet Vehicle Cost for Purchase User\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Mô đun cầu nối giữa Kế toán Đội phương tiện và Mua\n"
+"* Phân quyền đọc dữ liệu Chi phí Đội phương tiện cho Người dùng Mua hàng\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_fleet_accounting_purchase
+msgid "Fleet Accounting - Purchase"
+msgstr "Kế toán Đội phương tiện - Mua"

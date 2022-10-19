@@ -1,0 +1,54 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_l10n_vn_currency_conversion_diff
+msgid ""
+"\n"
+"Set defaut accounts according to the Vietnam accounting standards"
+msgstr ""
+"\n"
+"Thiết lập tài khoản kế toán mặc định theo chuẩn mực kế toán Việt Nam.\n"
+"        "
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_l10n_vn_currency_conversion_diff
+msgid ""
+"\n"
+"Upon installation of this module, all currency conversion difference journals of the Vietnam chart of accounts will updated  as follows: debit 711/ credit 811\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Khi cài module này, sổ nhật ký chênh lệch quy đổi tiền tệ sẽ được thiết lập lại các tài khoản mặc định như sau: nợ 711/ có 811\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_l10n_vn_currency_conversion_diff
+msgid "Vietnam - Currency Conversion Difference Move for Payment Transaction"
+msgstr ""

@@ -1,0 +1,72 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_company_hotline
+msgid ""
+"\n"
+"    \n"
+"What it does\n"
+"============\n"
+"Add Hotline to the partner information form when the contact is in company type\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Store a partner's hotline if any\n"
+"* Search a partner by typing hotline in the search bar\n"
+"* Do not apply for partners in indivisual type\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"        \n"
+"Mô tả\n"
+"=====\n"
+"Hiển thị thêm trường Đường dây nóng trong bảng thông tin của đối tác, nếu đối tác ở dạng công ty\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Cho phép lưu trữ thông tin đường dây nóng của đối tác (nếu có)\n"
+"* Cho phép tìm kiếm đối tác bằng thông tin đường dây nóng tại thanh tìm kiếm\n"
+"* Không áp dụng khi đối tác ở dạng cá nhân\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_company_hotline
+msgid ""
+"\n"
+"Hotline for partners and the company\n"
+"        "
+msgstr ""
+"\n"
+"Đường dây nóng của đối tác và công ty"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_company_hotline
+msgid "Company Hotline"
+msgstr "Đường dây nóng của công ty"

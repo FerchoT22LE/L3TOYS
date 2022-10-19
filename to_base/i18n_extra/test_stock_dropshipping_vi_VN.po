@@ -1,0 +1,66 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_test_stock_dropshipping
+msgid ""
+"\n"
+"Run test of module stock_dropshipping\n"
+"    "
+msgstr ""
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,description:base.module_test_stock_dropshipping
+msgid ""
+"\n"
+"The Problem\n"
+"===========\n"
+"When run test of stock_dropshipping, there is test case test_lifoprice, which can't be passed due to group_stock_multi_locations is enabled.\n"
+"In this case, the field quantity_done on stock move form is not editable, and we can's set value for it in form.\n"
+"\n"
+"\n"
+"What it does\n"
+"============\n"
+"This module will overwrite and re-run test of stock_dropshipping.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Đặt vấn đề\n"
+"==========\n"
+"\n"
+"Module này làm gì\n"
+"=================\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_test_stock_dropshipping
+msgid "[TEST] Test Drop Shipping"
+msgstr ""

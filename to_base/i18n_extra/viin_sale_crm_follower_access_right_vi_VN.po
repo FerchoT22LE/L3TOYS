@@ -1,0 +1,59 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_sale_crm_follower_access_right
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"* When users are given the View their own documents only access, they are not allowed to access the documents of other users by default even though they have been added as followers \n"
+"* However, in reality, there are many cases where the coordination of a group of employees is needed, so they need to access relevant documents to view, exchange information and perform work (leads, opportunities, sales quotations, sales orders...)\n"
+"* This module allows all employees who are added as followers to access documents even though they are not in charge of those documents.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Mặc định, khi được phân quyền chỉ xem tài liệu của chính mình, người dùng không được truy cập vào tất cả các tài liệu của người dùng khác phụ trách mặc dù được add follow.\n"
+"* Trong thực tế, có rất nhiều trường hợp cần sự phối hợp của một nhóm nhân viên, chính vì vậy, họ cần truy cập vào tài liệu liên quan để xem thông tin và trao đổi, phối hợp thực hiện công việc (tiềm năng, cơ hội, báo giá, đơn hàng...)\n"
+"* Mô-đun này cho phép tất cả nhân viên được add follow có thể truy cập tài liệu mặc dù không phải do mình phụ trách\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_sale_crm_follower_access_right
+msgid "Allow followers to read and post message on lead/quotation/sales order"
+msgstr ""
+"Cho phép người theo dõi có thể truy cập đọc và đăng thông điệp ở tiềm "
+"năng/báo giá/đơn bán"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_sale_crm_follower_access_right
+msgid "Sales CRM Follower Access Rights"
+msgstr "Quyền truy cập Bán hàng / CRM cho người theo dõi"

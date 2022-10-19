@@ -1,0 +1,64 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_hr_overtime_approval
+msgid ""
+"\n"
+"Integrate applications Overtime Management and Approval for overtime approval process"
+msgstr ""
+"\n"
+"Tích hợp ứng dụng Tăng ca với ứng dụng Phê duyệt để cho phép phê duyệt các đề nghị tăng ca\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_hr_overtime_approval
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"This module allows users to approve the overtime registerations which can help to make an overtime plan: \n"
+"\n"
+"    * Employee or Department Manager can register overtime plan for each and every employee in the company\n"
+"    * Once registered, a overtime approval request is generated and sent to the mentioned employee's manager and HR Officer\n"
+"    \n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"Mô-đun này cho phép người dùng phê duyệt các đơn đề xuất tăng ca, từ đó hỗ trợ việc lên kế hoạch tăng ca:\n"
+"\n"
+"    * Nhân viên hoặc quản lý các phòng có thể đăng ký kế hoạch làm thêm giờ mình hoặc cho các nhân viên trong phòng ban\n"
+"    * Sau khi đăng ký, một yêu cầu phê duyệt tăng ca sẽ được tạo và gửi đến Quản lý của nhân viên trên và Cán bộ phụ trách nhân sự\n"
+"    \n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community   \n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_hr_overtime_approval
+msgid "Overtime Approval"
+msgstr "Phê duyệt Tăng ca"

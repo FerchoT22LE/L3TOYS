@@ -1,0 +1,70 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_zoom_calendar
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* This module allows users to integrate Zoom with the Calendar.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* An option of Zoom meeting is offered as you create a meeting on Calendar.\n"
+"* By choosing this option, a Zoom meeting is scheduled and the link to the meeting are shown on the calendar.\n"
+"* Sending emails to the meeting attendees.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"* Module này cho phép bạn tích hợp Zoom với Lịch.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Khi tạo lịch sẽ có tùy chọn để đánh dấu cuộc họp này sẽ diễn ra trên Zoom.\n"
+"* Nếu chọn tùy chọn này, một cuộc họp trên Zoom sẽ được tạo, link đến cuộc họp sẽ được lưu trên lịch.\n"
+"* Gửi email thông báo đến những người tham dự link vào zoom meeting.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_zoom_calendar
+msgid ""
+"\n"
+"Zoom & Calendar Integration\n"
+msgstr ""
+"\n"
+"Tích Hợp Zoom với Calendar\n"
+"        "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_zoom_calendar
+msgid "Zoom Calendar Integration"
+msgstr "Tích Hợp Zoom với Calendar"

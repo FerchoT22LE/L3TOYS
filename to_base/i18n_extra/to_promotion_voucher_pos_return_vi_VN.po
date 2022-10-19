@@ -1,0 +1,54 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_promotion_voucher_pos_return
+msgid ""
+"\n"
+"Summary\n"
+"=======\n"
+"\n"
+"This application integrated the application `Promotion Vouchers for Point of Sales` and\n"
+"the application `Tracking PoS Return with Return Origin` to allow you take full control\n"
+"of returning Point of Sales orders that were previously paid by promotion vouchers\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tóm lược\n"
+"========\n"
+"\n"
+"Ứng dụng này tích hợp ứng dụng 'Phiếu khuyến mãi cho điểm bán hàng' và\n"
+"ứng dụng 'Theo dõi đơn trả hàng từ đơn hàng gốc (POS)' để cho phép bạn toàn quyền kiểm soát\n"
+"trả lại các đơn hàng của Điểm bán hàng đã được thanh toán trước đó bằng phiếu khuyến mãi \n"
+"    \n"
+"Ấn bản hỗ trợ\n"
+"=============\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_promotion_voucher_pos_return
+msgid "Promotion Voucher - Goods Return in Point of Sales"
+msgstr "Phiếu khuyến mãi - Trả lại hàng tại Điểm bán hàng"

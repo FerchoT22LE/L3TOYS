@@ -1,0 +1,60 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_hr_overtime_approval_payroll
+msgid ""
+"\n"
+"    \n"
+"Key Features\n"
+"============\n"
+"* This module is to integrate the Overtime, Approval and Payroll applications\n"
+"* The overtime data which are approved will be sent and calculated in Payroll\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"    \n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Mô-đun này giúp kết nối các ứng dụng Tăng ca, Phê duyệt và Bảng lương với nhau.\n"
+"* Dữ liệu tăng ca khi được phê duyệt sẽ được chuyển đến và tính toán trong ứng dụng Bảng lương\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_hr_overtime_approval_payroll
+msgid ""
+"\n"
+"Technical module that bridges Overtime and Approval and Payroll"
+msgstr ""
+"\n"
+"Mô-đun kỹ thuật làm cầu nối tích hợp các mô-đun Tăng ca, Phê duyệt, Tiền lương\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_hr_overtime_approval_payroll
+msgid "Overtime Approval Payroll"
+msgstr "Tích hợp Phê duyệt Tăng ca vào Phiếu lương"

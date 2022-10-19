@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_wallet_currency_conversion_diff
+msgid ""
+"\n"
+"\n"
+"Key features\n"
+"============\n"
+"    \n"
+"This module integrates \"to_currency_conversion_diff\" module with \"to_wallet\" module, that helps:\n"
+"\n"
+"    * Allow to make currency exchange from VND to foreign currency and vice versa to enable payment on payment acquires\n"
+"    * Creat rounding entry for the currency conversion difference in ewallet payment transaction\n"
+"    \n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"\n"
+"Tính năng nổi bật\n"
+"==================\n"
+"\n"
+"Mô-đun này tích hợp hai module \"to_currency_conversion_diff\" và \"to_wallet\", giúp thực hiện:\n"
+"\n"
+"    * Quy đổi tiền tệ từ VND sang ngoại tệ hoặc ngược lại để thực hiện thanh toán trên các cổng thanh toán điện tử\n"
+"    * Tạo bút toán làm tròn các chênh lệch do quy đổi tiền tệ trong các giao dịch ví điện tử\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_wallet_currency_conversion_diff
+msgid ""
+"\n"
+"Enable currency conversion difference move for wallet payment transaction"
+msgstr ""
+"\n"
+"Hỗ trợ quy đổi và làm tròn tiền tệ cho giao dịch ví điện tử"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_wallet_currency_conversion_diff
+msgid "Currency Conversion Difference Move for Wallet Payment Transaction"
+msgstr "Quy đổi và làm tròn tiền tệ cho giao dịch ví điện tử"

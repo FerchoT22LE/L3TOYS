@@ -1,0 +1,61 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-29 01:36+0000\n"
+"PO-Revision-Date: 2022-03-29 01:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_project_access_timesheet
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module provides the permissions to view all timesheets in projects.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"If the project is marked as \"Grant Full Access Rights\". The project manager can view all timesheets in this project.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Mô-đun này bổ sung thêm quyền xem tất cả các chấm công trong dự án.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"Nếu dự án được đánh dấu là \"Cấp toàn quyền truy cập\", chủ nhiệm dự án có thể xem tất các các chấm công của mọi người trong dự án này.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community \n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_project_access_timesheet
+msgid "Access control for project timesheets"
+msgstr "Kiểm soát quyền truy cập chấm công của dự án"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_project_access_timesheet
+msgid "Project Access Rights - Timesheets"
+msgstr "Quyền truy cập dự án - Chấm công"

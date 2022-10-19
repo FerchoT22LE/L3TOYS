@@ -1,0 +1,58 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-12 03:28+0000\n"
+"PO-Revision-Date: 2022-04-12 03:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_product_categ_mail_thread_purchase
+msgid ""
+"\n"
+"Integrate Product Category Chatter with Purchase\n"
+msgstr ""
+"\n"
+"Tích hợp Product Category Chatter với Mua sắm\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_product_categ_mail_thread_purchase
+msgid ""
+"\n"
+"This module track changes of the following field of the product category\n"
+"\n"
+"- property_account_creditor_price_difference_categ\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Theo dõi sự thay đổi của trường Tài khoản chênh lệch giá của Nhóm sản phẩm\n"
+"\n"
+"- property_account_creditor_price_difference_categ\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_product_categ_mail_thread_purchase
+msgid "Product Category Chatter - Purchase"
+msgstr "Theo dõi thay đổi Nhóm sản phẩm - Mua sắm"

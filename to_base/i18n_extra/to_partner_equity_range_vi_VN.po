@@ -1,0 +1,61 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_partner_equity_range
+msgid ""
+"\n"
+"Key features\n"
+"============\n"
+"* Add the Partner's Equity Range field on the Contact form.\n"
+"* Search Contacts by Equity Range.\n"
+"* Manage your partner's equity range.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Thêm trường Quy mô vốn trên hồ sơ Liên hệ của công ty đối tác.\n"
+"* Tìm kiếm Liên hệ theo Quy mô vốn của đối tác.\n"
+"* Quản lý quy mô vốn của đối tác.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_partner_equity_range
+msgid ""
+"\n"
+"Manage your partner's equity range"
+msgstr ""
+"\n"
+"Quản lý quy mô vốn của Đối tác"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_partner_equity_range
+msgid "Partner Equity Range"
+msgstr "Quy mô vốn đối tác"

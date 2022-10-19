@@ -1,0 +1,64 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_legal_invoice_number
+msgid ""
+"\n"
+"An additional number for invoice"
+msgstr ""
+"\n"
+"Một số bổ sung cho hóa đơn\n"
+"        "
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_legal_invoice_number
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"#. A new field 'Legal Number' has been added to the invoice model to allow users to\n"
+"\n"
+"   * Input an additional invoice number for legal purpose\n"
+"   * Search invoice by legal number\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"#. Một trường mới 'Số Hoá đơn GTGT' đã được thêm vào hóa đơn để cho phép người dùng\n"
+"\n"
+"   * Nhập bổ sung một mã số hoá đơn giá trị gia tăng theo luật định\n"
+"   * Tìm kiếm hóa đơn theo số hóa đơn giá trị gia tăng\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_legal_invoice_number
+msgid "Legal Invoice Number"
+msgstr "Số hóa đơn giá trị gia tăng"

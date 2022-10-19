@@ -1,0 +1,58 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_vietnam_bank_icons
+msgid ""
+"\n"
+"Payment Icons for banks in Vietnam"
+msgstr ""
+"\n"
+"Cung cấp các biểu tượng/logo cho thanh toán qua các ngân hàng ở Việt Nam\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_vietnam_bank_icons
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"Technical module to provide Payment Icons for banks in Vietnam for other payment_* module to reuse\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Đây là một module kỹ thuật cung cấp các biểu tượng ngân hàng phục vụ cho các module thanh toán trực tuyến có thể tái sử dụng.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_vietnam_bank_icons
+msgid "Vietnam Bank Payment Icons"
+msgstr "Logo Thanh toán Ngân hàng ở Vietnam"

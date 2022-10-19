@@ -1,0 +1,53 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-12 04:40+0000\n"
+"PO-Revision-Date: 2022-03-12 04:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_erponline_utility
+msgid ""
+"\n"
+"ERPOnline Utility\n"
+"=================\n"
+"This is a tool for ERPOnline/Viindoo platform. Do NOT use it if your Odoo instance is not deployed on ERPOnline/Viindoo platform\n"
+"\n"
+"    * Replace the user preference menu item 'My Odoo.com account' with 'My Viindoo.com account' (at the top right corner)\n"
+"    * Replace url of menu 'Help' with ERPOnline's url help\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+msgstr ""
+"\n"
+"ERPOnline Utility\n"
+"=================\n"
+"Đây là bộ công cụ phục vụ nền tảng ERPOnline/Viindoo. KHÔNG cài đặt mô-đun này nếu hệ thống của bạn không triển khai trên nền tảng ERPOnline/Viindoo\n"
+"\n"
+"    * Thay thế menu 'Tài khoản Odoo.com' thành 'Tài khoản Viindoo.com' (Ở thiết lập tài khoản góc trái bên trên màn hình)\n"
+"    * Thay link của menu 'Help' bằng link hỗ trợ của ERPOnline\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_erponline_utility
+#: model:ir.module.module,summary:base.module_to_erponline_utility
+msgid "ERPOnline Utility"
+msgstr ""

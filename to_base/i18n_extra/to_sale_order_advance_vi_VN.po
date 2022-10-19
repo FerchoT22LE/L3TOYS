@@ -1,0 +1,69 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_sale_order_advance
+msgid ""
+"\n"
+"Allows users to make advance payments for sale order.\n"
+msgstr ""
+"\n"
+"Cho phép tạo các khoản tạm ứng cho đơn bán hàng.\n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_sale_order_advance
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module allows linking from payments to sales orders. The payment will only be used to reconcile the invoice of the linked order.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Allows linking from payments to sales orders.\n"
+"* When reconciling payments with invoices, give a warning if the payment and invoice are not linked to the same sales order\n"
+"* Can only be used to reconcile invoices associated with that order\n"
+"    \n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Mô-đun này cho phép tạo liên kết từ thanh toán đến đơn bán hàng. Thanh toán đó sẽ chỉ được dùng để đối soát với hoá đơn của đơn hàng đã liên kết.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Cho phép tạo liên kết từ thanh toán đến đơn bán hàng.\n"
+"* Khi đối soát thanh toán với hóa đơn, đưa ra cảnh báo nếu khoản thanh toán và hóa đơn không cùng liên kết với cùng một đơn hàng bán \n"
+"* Chỉ được dùng để đối soát với những hóa đơn có liên kết với đơn hàng đó\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_sale_order_advance
+msgid "Sale Advance Payment"
+msgstr "Tạm ứng Bán hàng"

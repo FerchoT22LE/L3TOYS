@@ -1,0 +1,55 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_unique_product_code
+msgid ""
+"\n"
+"This module, once installed, will block saving and raise an error message when users try to input a code (also known as \"Internal Reference\")\n"
+"that is currently used by another product.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Khi module này được cài đặt, sẽ không cho lưu và hiện thông báo lỗi khi người dùng nhập mã (hay còn gọi là \"Tham chiếu nội bộ\")\n"
+"đang được sản phẩm khác sử dụng.\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"==============\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_unique_product_code
+msgid ""
+"\n"
+"Unique Product Default Code"
+msgstr ""
+"\n"
+"Ngăn nhập mã mặc định của Sản Phẩm trùng lặp"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_unique_product_code
+msgid "Unique Product Code"
+msgstr "Mã Sản Phẩm không trùng lặp"

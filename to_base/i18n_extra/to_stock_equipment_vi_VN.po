@@ -1,0 +1,65 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_stock_equipment
+msgid ""
+"\n"
+"Integrate Equipment with Inventory application for equipment stock and tracing"
+msgstr ""
+"\n"
+"Tích hợp quản lý Kho với Thiết bị để lưu trữ và truy xuất nguồn gốc"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_stock_equipment
+msgid ""
+"\n"
+"The problem\n"
+"===========\n"
+"By default, Odoo does not offer any relation between stockable goods and equipments. These are totally independent objects. From an equipment view, we do NOT know where the equipment comes from.\n"
+"\n"
+"Solution\n"
+"========\n"
+"This module allows equipments generated automatically from a stock-in transfer. In other words, if a product is marked with \"Can be equipment\", during receving the product, Odoo will generate equipments according to the product quantity so that you can maintain the product later on using maintenance application. When looking at an equipment, you will also know from where it came and how it has moved so far.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Đặt vấn đề\n"
+"==========\n"
+"Theo mặc định, Odoo không cung cấp bất kỳ mối quan hệ nào giữa sản phẩm có thể lưu kho và thiết bị. Đây là những đối tượng hoàn toàn độc lập. Từ góc nhìn thiết bị, chúng ta KHÔNG biết thiết bị đến từ đâu.\n"
+"\n"
+"Giải pháp\n"
+"=========\n"
+"Mô-đun này cho phép các thiết bị được tạo tự động từ dịch chuyển kho. Nói cách khác, nếu một sản phẩm được đánh dấu là \"Có thể là thiết bị\", trong quá trình nhận sản phẩm, Odoo sẽ tạo ra các thiết bị theo số lượng sản phẩm để bạn có thể bảo trì sản phẩm sau này khi sử dụng ứng dụng Bảo trì. Khi nhìn vào một thiết bị, bạn cũng sẽ biết nó đến từ đâu và nó đã di chuyển như thế nào cho đến nay.\n"
+"\n"
+"Phiên bản hỗ trợ\n"
+"================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+" \n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_stock_equipment
+msgid "Stock Equipment"
+msgstr "Thiết Bị Và Kho"

@@ -1,0 +1,57 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_l10n_vn_employee_advance
+msgid ""
+"\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Upon installation of this module, all employee advance journals of the Vietnam chart of accounts will updated with 141 as the default account to meet VAS requirements.\n"
+"* Allow to print general voucher in case journal of payment was Employee Advance Journal.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Sau khi module này được cài đặt, tất cả các sổ tạm ứng nhân viên trong hệ thống tài khoản Việt Nam được cập nhật với tài khoản tạm ứng 141 mặc định để đáp ứng chuẩn mực kế toán Việt Nam\n"
+"* Cho phép in phiếu kế toán trong trường hợp thanh toán đó nằm trong sổ nhật ký *Tạm ứng*.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_l10n_vn_employee_advance
+msgid "Set defaut accounts according to the Vietnam accounting standards"
+msgstr "Thiết lập tài khoản mặc định theo chuẩn mực kế toán Việt Nam"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_l10n_vn_employee_advance
+msgid "Vietnam - Employee Advance"
+msgstr "Việt Nam - Tạm Ứng Nhân Viên"

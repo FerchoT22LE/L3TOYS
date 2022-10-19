@@ -1,0 +1,58 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_sale_project_technician
+msgid ""
+"\n"
+"Assign the Tech Lead for project and grant permission to read the sales order and sales order lines."
+msgstr ""
+"\n"
+"Chọn một Kỹ Thuật Trưởng cho một dự án và cho phép đọc đơn bán và chi tiết đơn bán liên quan."
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_sale_project_technician
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"- Allow project manager to assign a user to be lead technician on a project. \n"
+"- Grant access to that lead technician to read the sales orders and sales order lines of the related project.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"- Cho phép chủ nhiệm dự án chỉ định một người dùng là kỹ thuật viên trưởng (Tech lead) phụ trách dự án.\n"
+"- Cấp quyền cho Tech Lead đó được đọc đơn bán và dòng chi tiết đơn bán liên quan đến dự án đó.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_sale_project_technician
+msgid "Sale Project Technician"
+msgstr "Bán hàng - Kỹ thuật viên dự án"

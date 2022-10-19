@@ -1,0 +1,58 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_partner_track_change
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"* Allow to keep track on the changes of the Contact information with changing records attached to the Contact. \n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Cho phép theo dõi sự thay đổi của các trường thông tin ở phần Liên hệ bằng những ghi chú lịch sử thay đổi kèm theo Liên hệ đó.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_partner_track_change
+msgid ""
+"\n"
+"Tracking changes of partner information"
+msgstr ""
+"\n"
+"Theo dõi những sự thay đổi thông tin quan trọng của đối tác\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_partner_track_change
+msgid "Partner Changes Tracking"
+msgstr "Theo dõi thay đổi thông tin đối tác"

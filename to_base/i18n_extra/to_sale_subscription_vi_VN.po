@@ -1,0 +1,65 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:06+0000\n"
+"PO-Revision-Date: 2021-12-25 05:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_sale_subscription
+msgid ""
+"\n"
+"Recurring invoicing, renewals"
+msgstr ""
+"\n"
+"Lập hóa đơn định kỳ, gia hạn"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_sale_subscription
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module allows you to manage subscriptions.\n"
+"\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Ứng dụng này cho phép bạn quản lý Thuê bao.\n"
+"\n"
+"Tính năng chính\n"
+"===============\n"
+"    - Tạo và sửa Thuê bao\n"
+"    - Điều chỉnh thuê bao với đơn bán\n"
+"    - Tạo hóa đơn tự động trong khoảng thời gian cố định\n"
+"\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_sale_subscription
+msgid "Subscription Management"
+msgstr "Quản lý Thuê bao"

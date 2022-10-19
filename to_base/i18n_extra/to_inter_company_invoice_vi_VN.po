@@ -1,0 +1,70 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:06+0000\n"
+"PO-Revision-Date: 2021-12-25 05:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_inter_company_invoice
+msgid ""
+"\n"
+"Inter-Company Transactions for Invoices\n"
+"        "
+msgstr ""
+"\n"
+"Giao dịch liên công ty cho hóa đơn (Bán hàng, mua hàng)\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_inter_company_invoice
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"\n"
+"* Conducing inter company transactions between 2 companies A and B in the same system\n"
+"\n"
+"    * when validating an in invoice in company A, an out invoice will be auto created in company B\n"
+"    * When validating an out invoice in company A, an in invoice will be auto created in company B\n"
+"    * Also appling for refund invoices\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"* Khi thực hiện giao dịch liên công ty giữa 2 công ty A và B trong hệ thống\n"
+"\n"
+"    * Khi xác nhận hóa đơn bán hàng ở công ty A, hệ thống sẽ tự động tạo hóa đơn mua hàng ở công ty B\n"
+"    * khi xác nhận hóa đơn mua hàng ở công ty A, hệ thống sẽ tự động tạo hóa đơn bán hàng ở công ty B\n"
+"    * Áp dụng cả các hóa đơn hoàn trả\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_inter_company_invoice
+msgid "Inter-Company Rule for Invoices"
+msgstr "Giao dịch liên công ty - Hóa đơn"

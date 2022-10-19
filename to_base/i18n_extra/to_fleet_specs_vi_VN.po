@@ -1,0 +1,70 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_fleet_specs
+msgid ""
+"\n"
+"Additional fields for vehicle parameters"
+msgstr ""
+"\n"
+"Bổ sung thêm các trường là thông số của phương tiện"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_fleet_specs
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"* Vehicle Class: manage unlimited vehicle classes. For example: Trucks 2~4 Tons, Trucks 4~10 Tons, Bus 29 Seats, etc\n"
+"* Vehicle Type: a selection field with options: Car, Truck, Bus for Vehicle type to categorize your fleet in such the types\n"
+"* Year Made: the year in which the vehicle was made\n"
+"* Self Weight: the self weight of the vehicle in kilograms\n"
+"* Engine Serial Number: the serial of the vehicle engine\n"
+"* Trailer Inner Height: The inner height in meters of the built-in trailer. This applies to vehicles in type of Truck only.\n"
+"* Trailer Inner Width: The inner width in meters of the built-in trailer. This applies to vehicles in type of Truck only.\n"
+"* Trailer Inner Length: The inner length in meters of the built-in trailer. This applies to vehicles in type of Truck only.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng chính\n"
+"===============\n"
+"* Phân cấp Phương tiện: quản lý phân cấp phương tiện không giới hạn. Ví dụ: Xe tải 2~4 tấn, Xe tải 4~10 tấn, Xe buýt 29 chỗ, v.v.\n"
+"* Kiểu Phương tiện: danh sách các tùy chọn: Ô tô, Xe tải, Xe buýt cho kiểu phương tiện để phân loại đội phương tiện của bạn theo các kiểu như vậy\n"
+"* Năm sản xuất: năm mà phương tiện được sản xuất\n"
+"* Tự trọng: tự trọng của phương tiện tính bằng kilo-gam\n"
+"* Số máy: số máy của phương tiện\n"
+"* Chiều cao bên trong thùng hàng: Chiều cao bên trong tính bằng mét của thùng hàng tích hợp. Điều này chỉ áp dụng cho các kiểu xe trong kiểu Xe tải.\n"
+"* Chiều rộng bên trong thùng hàng: Chiều rộng bên trong tính bằng mét của thùng hàng tích hợp. Điều này chỉ áp dụng cho các kiểu xe trong kiểu Xe tải.\n"
+"* Chiều dài bên trong thùng hàng: Chiều dài bên trong tính bằng mét của thùng hàng tích hợp. Điều này chỉ áp dụng cho các kiểu xe trong kiểu Xe tải.\n"
+"\n"
+"Phiên bản hỗ trợ\n"
+"================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_fleet_specs
+msgid "Fleet Specifications"
+msgstr "Thông số Kỹ Thuật Đội phương Tiện"

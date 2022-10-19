@@ -1,0 +1,59 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:06+0000\n"
+"PO-Revision-Date: 2021-12-25 05:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_inter_company_base
+msgid ""
+"\n"
+"Base module for inter-company flows\n"
+"        "
+msgstr ""
+"\n"
+"Module Cơ sở cho các quy trình liên công ty\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_inter_company_base
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* This module allows users to enabling inter-company features for each module: Sale/Purchase, Invoice, Stock\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"* Đây là module cơ sở cho phép kích hoạt tính năng giao dịch liên công ty cho từng phân hệ: Mua/Bán, Hóa đơn, Kho \n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_inter_company_base
+msgid "Inter Company Base"
+msgstr "Mô-đun liên công ty cơ sở"

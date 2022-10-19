@@ -1,0 +1,71 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_hr_employee_grade
+msgid ""
+"\n"
+"Managing Employee Grade. \n"
+"        "
+msgstr ""
+"\n"
+"Quản lý Cấp bậc Nhân viên.\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_hr_employee_grade
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* In addition to the position, employees will be classified by grades, for example: Internship, Junior, Senior. This module helps manage each employee's grade.\n"
+"* You can find this module in \"Configuration\" of the \"Employee\" App when installed. \n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Allows users to create employee grade.\n"
+"* Allows users to classify, filter and easily search for employee information by employee grade in Employee Directory.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"* Ngoài vị trí, nhân viên sẽ được phân loại theo từng cấp bậc, ví dụ: Intership, Junior, Senior. Mô đun này giúp quản lý cấp bậc của từng nhân viên.\n"
+"* Người dùng có thể tìm mô đun \"Quản lý cấp bậc nhân viên\" này trong \"Cấu hình\" của ứng dụng \"Nhân viên\" sau khi hoàn tất cài đặt.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Cho phép tạo Cấp bậc nhân viên.\n"
+"* Cho phép phân loại, lọc và dễ dàng tìm kiếm thông tin nhân viên theo cấp bậc trong Danh bạ nhân viên.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_hr_employee_grade
+msgid "HR Employee Grade"
+msgstr "Cấp bậc Nhân viên"

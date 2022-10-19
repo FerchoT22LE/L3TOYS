@@ -1,0 +1,63 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_uom_subscription
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"Create two new Units of Measure (UoM) Categories for Subscription measurement:\n"
+"\n"
+"* Subscription: measured in hour(s), day(s), week(s), etc.\n"
+"* User Subscription: measured in user/hour, user/day, user/week, etc.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"Tạo mới hai nhóm Đơn vị tính với Kiểu đo lường là Thuê bao (tính tiền theo thời gian):\n"
+"\n"
+"* Nhóm Thuê bao: đơn vị tính theo giờ, ngày, tháng, năm, v.v.\n"
+"* Nhóm Thuê bao người dùng: đơn vị tính theo Người dùng/giờ, Người dùng/ngày, Người dùng/tháng, Người dùng/năm, v.v.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_uom_subscription
+msgid ""
+"\n"
+"New UoM type for subscription measurement"
+msgstr ""
+"\n"
+"Kiểu Đơn vị tính thời gian thuê bao\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_uom_subscription
+msgid "Subscription Unit of Measure"
+msgstr "Nhóm đơn vị Thuê bao"

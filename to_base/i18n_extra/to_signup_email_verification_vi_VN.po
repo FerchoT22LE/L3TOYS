@@ -1,0 +1,55 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_signup_email_verification
+msgid ""
+"\n"
+"Add an email verification step for account registration activation\n"
+msgstr ""
+"\n"
+"Thêm bước xác nhận email để kích hoạt tài khoản đăng ký\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_signup_email_verification
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module adds a step to require newly registered users to activate their account via email after signup\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"    "
+msgstr ""
+"\n"
+"Chức năng\n"
+"=========\n"
+"Module này sẽ thêm 1 bước xác nhận để kích hoạt tài khoản qua email sau khi người dùng đăng ký tài khoản.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_signup_email_verification
+msgid "Signup Email Verification"
+msgstr "Thẩm định Email khi Đăng ký"

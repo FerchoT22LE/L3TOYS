@@ -1,0 +1,57 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-04 03:05+0000\n"
+"PO-Revision-Date: 2022-06-04 03:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_hide_ent_modules_hr_timesheet
+msgid ""
+"\n"
+"Hide Enterprise features in Timesheets Settings"
+msgstr ""
+"\n"
+"Ẩn các tính năng Enterprise trong Thiết lập Chấm công"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_hide_ent_modules_hr_timesheet
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* This module helps to hide Enterprise features in Timesheets Settings.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Module này làm gì\n"
+"=================\n"
+"* Module này giúp ẩn các tính năng Enterprise trong Thiết lập Chấm công.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_hide_ent_modules_hr_timesheet
+msgid "Hide Enterprise Marks - Timesheets"
+msgstr "Ẩn tính năng Enterprise - Chấm công"

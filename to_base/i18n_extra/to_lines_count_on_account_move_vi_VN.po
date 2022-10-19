@@ -1,0 +1,59 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_lines_count_on_account_move
+msgid ""
+"\n"
+"Count lines on Journal Entries"
+msgstr ""
+"\n"
+"Đếm dòng trên Bút toán sổ nhật ký"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_lines_count_on_account_move
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"* This module adds a new field to count number of lines (aka Journal Items) of a Journal Entry to allow you filter for journal entries with lines count criteria.\n"
+"* This also adds a new filter named \"Large Entries\" on the Journal Entry list view so that you can quickly find entries having more than 100 lines\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Module này thêm một trường mới để đếm số lượng dòng (Phát sinh kế toán) của Bút toán sổ nhật ký để cho phép bạn lọc các Bút toán sổ nhật ký với tiêu chí đếm dòng.\n"
+"* Điều này cũng thêm một  bộ lọc mới có tên \"Bút toán lớn\" trên chế độ xem danh sách Bút toán sổ nhật ký  để bạn có thể nhanh chóng tìm thấy các bút toán có hơn 100 dòng.\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"=============\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_lines_count_on_account_move
+msgid "Lines Count on Journal Entries"
+msgstr "Đếm dòng trên Bút toán sổ nhật ký"

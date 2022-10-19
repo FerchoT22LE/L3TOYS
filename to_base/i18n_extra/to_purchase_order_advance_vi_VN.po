@@ -1,0 +1,55 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_purchase_order_advance
+msgid ""
+"\n"
+"\n"
+"This module allow linking from payment to purchase order, and make that payment only reconcilable for invoices of it's linked order.\n"
+"    \n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"    \n"
+"Mô-đun này cho phép tạo liên kết từ thanh toán đến đơn mua hàng. Thanh toán đó sẽ chỉ được dùng để đối soát với hoá đơn của đơn hàng đã liên kết.\n"
+"    \n"
+"Phiên bản hỗ trợ\n"
+"================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_purchase_order_advance
+msgid ""
+"\n"
+"Allows users to make advance payments for purchase order.\n"
+msgstr ""
+"\n"
+"Cho phép tạo các khoản tạm ứng cho đơn mua hàng.\n"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_purchase_order_advance
+msgid "Purchase Advance Payment"
+msgstr "Tạm ứng Mua hàng"

@@ -1,0 +1,59 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_project_stages
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"This module:\n"
+"\n"
+"* Allows to change the projects form view for users to organise specific stages for projects\n"
+"* Allows to set color for each of the stages and according to that, users can identify the exact stage of projects/tasks in Kanban View (If tasks have been grouped by a certain criterion)\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"Mô-đun này:\n"
+"\n"
+"* Cho phép người dùng thay đổi giao diện dự án để tổ chức các giai đoạn cụ thể cho dự án\n"
+"* Cho phép thiết lập màu sắc cho từng giai đoạn và nhờ đó, người dùng có thể nhận biết được nhiệm vụ đang ở giai đoạn nào khi ở Kanban view (Trong trường hợp nhiệm vụ đã được nhóm theo 1 tiêu chí nào đó).\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_project_stages
+msgid "Configure project stages"
+msgstr "Cấu hình giai đoạn dự án"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_project_stages
+msgid "Project Stages"
+msgstr "Giai Đoạn Dự Án"

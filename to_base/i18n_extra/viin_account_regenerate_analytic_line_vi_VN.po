@@ -1,0 +1,64 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_account_regenerate_analytic_line
+msgid ""
+"\n"
+"The problem\n"
+"===========\n"
+"By default, you cannot add or adjust analytic account for posted journal items, so you cannot regenerate analytic lines for them.\n"
+"\n"
+"Solution\n"
+"========\n"
+"This module provides action menu on journal items form and tree views. You can select one or many journal items and click on this action menu.\n"
+"When the popup was displayed, you should select analytic account, analytic tags then click confirm. The new analytic lines should be auto regenerated for the chosen journal items. \n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Vấn đề\n"
+"======\n"
+"Mặc định, khi bút toán đã vào sổ bạn sẽ không thể thêm hoặc điều chỉnh tài khoản quản trị cho các phát sinh, do đó bạn cũng không thể tạo lại các phát sinh kế toán quản trị cho chúng.\n"
+"\n"
+"Giải pháp\n"
+"=========\n"
+"Mô-đun này cung cấp menu `Tạo lại Phát sinh Kế toán Quản trị` ở giao diện form và danh sách của phát sinh kế toán. Người dùng có thể chọn một hoặc nhiều phát sinh, sau đó bấm vào menu này.\n"
+"Khi Popup được mở ra, người dùng chọn tài khoản kế toán quản trị, thẻ TK kế toán quản trị và bấm xác nhận. Hệ thống sẽ tự động tạo lại các phát sinh toán kế toán quản trị cho các phát sinh kế toán đã được chọn.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_account_regenerate_analytic_line
+msgid "Adjust Account Analytic Lines for Posted Journal Items"
+msgstr ""
+"Điều chỉnh Phát sinh Kế toán Quản trị cho các Phát sinh Kế toán đã vào sổ"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_account_regenerate_analytic_line
+msgid "Regenerate Account Analytic Lines"
+msgstr "Tạo lại Phát sinh Kế toán Quản trị"

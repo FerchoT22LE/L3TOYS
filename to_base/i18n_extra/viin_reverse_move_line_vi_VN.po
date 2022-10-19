@@ -1,0 +1,58 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_reverse_move_line
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"\n"
+"This module allows to link refund lines with invoice lines of original invoices\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"\n"
+"Phân hệ này cho phép liên kết các dòng hoàn tiền với các dòng hóa đơn gốc.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_reverse_move_line
+msgid ""
+"Know refund lines being reversals of invoice lines of original invoices"
+msgstr ""
+"Biết dòng hoàn trả là dòng đảo ngược của các dòng hóa đơn của hóa đơn gốc "
+"nào"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_reverse_move_line
+msgid "Reversed Invoice Line"
+msgstr "Dòng hóa đơn đảo ngược"

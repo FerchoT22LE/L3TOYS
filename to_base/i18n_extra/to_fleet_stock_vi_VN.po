@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_fleet_stock
+msgid ""
+"\n"
+"Record stock moves with vehicle reference"
+msgstr ""
+"\n"
+"Tham chiếu dịch chuyển kho với phương tiện"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_fleet_stock
+msgid ""
+"\n"
+"This application integrates the Odoo's Fleet Management application and Inventory to support stock consumption management for your fleet\n"
+"\n"
+"Key Features\n"
+"============\n"
+"1. New Stock Operation Type: Fleet Consumption\n"
+"2. Record stock consumption (parts, fuel, etc) for your Fleet with Stock Moves as other stock operation\n"
+"3. Auto generates a vehicle cost if the corresponding stock move moves to a production location that present your vehicles.\n"
+"4. Keep track of stock that have been consumed for each vehicle\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này tích hợp ứng dụng Quản lý Đội phương tiện và Kho hàng của Odoo để hỗ trợ quản lý xuất kho tiêu thụ cho đội phương tiện của bạn\n"
+"\n"
+"Tính năng chính\n"
+"===============\n"
+"1. Loại hoạt động kho mới: Tiêu thụ cho Đội phương tiện\n"
+"2. Ghi lại xuất kho tiêu thụ (bộ phận, nhiên liệu, v.v.) cho Đội phương tiện của bạn với Dịch chuyển Kho, cũng như các hoạt động kho khác\n"
+"3. Tự động tạo ra một chi phí của phương tiện nếu có một dịch chuyển kho tới địa điểm sản xuất tương ứng với phương tiện.\n"
+"4. Theo dõi kho mà đã được tiêu thụ cho mỗi phương tiện\n"
+"\n"
+"Phiên bản hỗ trợ\n"
+"================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_fleet_stock
+msgid "Fleet Stock Consumption"
+msgstr "Xuất Kho Tiêu Thụ Cho Đội Phương Tiện"

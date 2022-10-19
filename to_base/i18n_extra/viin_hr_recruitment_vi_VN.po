@@ -1,0 +1,59 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_hr_recruitment
+msgid ""
+"\n"
+"Allow users to view the related applicants at employee and partner form"
+msgstr ""
+"\n"
+"Cho phép xem các hồ sơ ứng viên liên quan từ form nhân viên và đối tác"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_hr_recruitment
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"1. Add a applicants counter in employee form to allow users can view related applicants\n"
+"2. Add a applicants counter in partner form to allow users can view related applicants\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng chính\n"
+"===============\n"
+"1. Thêm bộ đếm ứng viên trên form nhân viên cho phép người dùng xem các hồ sơ ứng viên liên quan\n"
+"2. Thêm bộ đếm ứng viên trên form đối tác cho phép người dùng xem các hồ sơ ứng viên liên quan\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"=============\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_hr_recruitment
+msgid "Viin HR Recruitment"
+msgstr ""

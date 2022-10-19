@@ -1,0 +1,71 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_partner_shareholder
+msgid ""
+"\n"
+"Key features\n"
+"=============\n"
+"* This module allows users to set up shareholder information on the Contact form, including:\n"
+"\n"
+"  * Shareholder name\n"
+"  * His/ her shareholding percentage.\n"
+"  * Other related information of the shareholder.\n"
+"\n"
+"* Search Contacts by the Partner's shareholders.\n"
+"* Manage the information of the Partner's shareholders.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Cho phép thiết lập thông tin các Cổ đông của đối tác trên hồ sơ Liên hệ gồm:\n"
+"\n"
+"  * Tên cổ đông.\n"
+"  * Phần trăm sở hữu của từng cổ đông trong doanh nghiệp.\n"
+"  * Những thông tin liên quan đến cổ đông đó đối với doanh nghiệp.\n"
+"\n"
+"* Tìm kiếm Liên hệ theo thông tin cổ đông của doanh nghiệp.\n"
+"* Quản lý thông tin cổ đông của đối tác.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_partner_shareholder
+msgid ""
+"\n"
+"Manage your partner's shareholder"
+msgstr ""
+"\n"
+"Quản lý thông tin cổ đông của đối tác"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_partner_shareholder
+msgid "Partner ShareHolder"
+msgstr "Thông tin cổ đông của đối tác"

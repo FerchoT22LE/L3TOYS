@@ -1,0 +1,59 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_sales_stock_schedule
+msgid ""
+"\n"
+"Expected delivery date for sales order lines\n"
+"        "
+msgstr ""
+"\n"
+"Ngày giao hàng dự kiến cho các dòng trên đơn bán\n"
+"        "
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_sales_stock_schedule
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"A simple application that adds Est. Delivery date from sales order lines\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Một ứng dụng đơn giản để thêm ngày giao hàng dự kiến vào các dòng trên đơn bán\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_sales_stock_schedule
+msgid "Sale Delivery Schedule"
+msgstr "Lập kế hoạch giao hàng"

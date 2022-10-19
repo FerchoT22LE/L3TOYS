@@ -1,0 +1,68 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_product_maintenance_schedule
+msgid ""
+"\n"
+"Define & Manage product maintenance Schedule based on product and product milestones"
+msgstr ""
+"\n"
+"Định nghĩa & Quản lý lịch bảo trì sản phẩm dựa theo sản phẩm và mốc hoạt động của sản phẩm\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_product_maintenance_schedule
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module manages maintenance operations based on equipment and equipment running time, that will help customer and operator know what to do, which part needs to replaced, what need to replace, what we need to prepare for maintenance  \n"
+"\n"
+"Key Features\n"
+"============\n"
+"* New data list links to product manages all operations need to do based on product milestone\n"
+"* In each operation, we can choose appropriate service and product to know what needs to do( check, clean or replace...)\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Module này quản lý công việc chi tiết của việc bảo trì, sửa chữa dựa trên thiết bị và thời gian chạy của thiết bị. Việc này giúp khách hàng cũng như nhân viên bảo trì biết chi tiết cần làm những gì, cần thay thế những gì cũng như những linh kiện cần chuẩn bị \n"
+"\n"
+"Tính năng chính\n"
+"===============\n"
+"* Tạo ra bộ dữ liệu mới liên kết với sản phẩm để quản lý tất cả các công việc phải làm dựa trên mốc hoạt động của sản phẩm\n"
+"* Trên mỗi công việc cụ thể, có thể chọn loại dịch vụ và sản phẩm phù hợp để biết việc phải làm( kiểm tra, vệ sinh hay thay thế ...)\n"
+"\n"
+"Phiên bản hỗ trợ\n"
+"================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_product_maintenance_schedule
+msgid "Product Maintenance Schedule"
+msgstr "Lịch Bảo Trì Sản Phẩm"

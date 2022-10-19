@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_survey_exam
+msgid ""
+"\n"
+"Create exam using survey.\n"
+"        "
+msgstr ""
+"\n"
+"Tích hợp với Khảo sát để tạo đề thi.\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_survey_exam
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"This module allow:\n"
+"\n"
+"* Create questions bank\n"
+"* Generate survey from questions bank\n"
+"* Generate questions bank from suvey questions\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"Module này cho phép:\n"
+"\n"
+"* Tạo ngân hàng câu hỏi\n"
+"* Tạo khảo sát từ ngân hàng câu hỏi\n"
+"* Cho phép tạo ngân hàng câu hỏi từ các câu hỏi có sẵn của một khảo sát bất kỳ\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_survey_exam
+msgid "Survey Exam"
+msgstr "Tạo đề thi sử dụng khảo sát"

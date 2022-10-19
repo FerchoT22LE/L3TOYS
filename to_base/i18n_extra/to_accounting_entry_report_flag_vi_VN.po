@@ -1,0 +1,55 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_accounting_entry_report_flag
+msgid ""
+"\n"
+"Excluded in Legal Reports filtering for accounting journal entries and journal items"
+msgstr ""
+"\n"
+"Đánh dấu bút toán và phát sinh kế toán để loại ra khỏi các báo cáo kế toán"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_accounting_entry_report_flag
+msgid ""
+"\n"
+"This module adds a boolean field of Excluded in Legal Reports in accounting journal entries and journal items.\n"
+"This may be useful for other reporting modules to manipulate report contents.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Module này thêm trường đánh dấu Loại khỏi Báo cáo trên các phát sinh kế toán và bút toán sổ nhật ký.\n"
+"Điều này giúp cho các module liên quan đến báo cáo kế toán có thể thay đổi nội dung báo cáo bằng cách loại trừ số liệu được đánh dấu Loại khỏi Báo cáo.\n"
+"\n"
+"Phiên bản hỗ trợ\n"
+"================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_accounting_entry_report_flag
+msgid "Accounting Report Flag"
+msgstr "Đánh dấu Loại khỏi Báo cáo Kế toán"

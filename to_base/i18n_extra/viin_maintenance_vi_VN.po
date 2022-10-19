@@ -1,0 +1,73 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-17 03:40+0000\n"
+"PO-Revision-Date: 2022-09-17 03:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_maintenance
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* An equipment could be apart of another equipment\n"
+"* View equipment and its direct parts in the form\n"
+"* View equipment and its recursive parts (parts of parts) in the form\n"
+"* Search Equipment by Parts\n"
+"* Search Parts by Equipment\n"
+"* Groups parts by equipment\n"
+"* Adding an image for an equipment. The image will be used on Kanban / Form views\n"
+"* Adding a Worksheet (a PDF document) which is viewable and downloadable from the equipment form view. This is useful for storing equipment's manual/instruction\n"
+"* Track changes of some fields on maintenance request\n"
+"* Only the maintenance manager can delete the maintenance request\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"* Một thiết bị có thể là một phần của thiêt bị khác.\n"
+"* Hiển thị thiết bị và các thành phần trực tiếp cũng như đệ quy của thiết bị đó trên giao diện.\n"
+"* Tìm kiếm thiết bị từ các thành phần.\n"
+"* Nhóm các phần theo thiết bị.\n"
+"* Thêm hình ảnh cho thiết bị bên trong giao diện form và hiển thị bên ngoài giao diện thẻ Kanban.\n"
+"* Thêm trang Bản vẽ/Hướng dẫn để bạn có thể tải lên và xem nhanh tài liệu PDF liên quan đến thiết bị này (bản vẽ, sách hướng dẫn, v.v.) ngay trên giao diện Thiết bị. Tính năng này sẽ giúp bạn lưu trữ thông tin tập trung và dễ dàng tìm kiếm.\n"
+"* Theo dõi thay đổi của một số trường trên yêu cầu bảo trì.\n"
+"* Chỉ cho phép quản lý bảo trì mới có thể xóa yêu cầu bảo trì.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_maintenance
+msgid "Equipment & Parts"
+msgstr "Thiết bị & Phụ kiện"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_maintenance
+msgid ""
+"Manage equipments and parts in hierarchy structure.\n"
+"        "
+msgstr ""
+"Quản lý các thiết bị và các thành phần theo phân cấp phả hệ.\n"
+"        "

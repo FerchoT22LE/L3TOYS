@@ -1,0 +1,70 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_wallet_adjustment
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"Allowing your customers to deposit and make transaction by e-wallet, you'd need to adjust the amount in your customer's wallet, e.g. enter the opening amount, give an reward amount etc)\n"
+"This module helps you to make that adjustment without creating payment transactions\n"
+"\n"
+"Key features\n"
+"============\n"
+"* By default, the wallet amount can only be adjusted using a payment entry.\n"
+"* Installing this module, you can create amount adjustment entries and they will be stored and linked on the wallet management form in your Accounting application.\n"
+"* *For example*: Adjust to increase wallet amount: Debit 811/Credit 131. Adjust to decrease wallet amount: Debit 131/Credit 711.\n"
+"* Payable or Receivable account could be set on Customer form. Income or Expenditure account could be set on Wallet Adjustment Journal.\n"
+"\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Khi khách hàng của bạn nạp tiền và thanh toán bằng ví điện tử, trong một số trường hợp, bạn cần điều chỉnh số dư trong ví của khách hàng, ví dụ: nhập số tiền đầu kỳ\n"
+"Mô-đun này giúp bạn thực hiện việc điều chỉnh đó mà không thông qua các giao dịch thanh toán\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Theo mặc định, chỉ có thể điều chỉnh số dư trong ví bằng bút toán thanh toán.\n"
+"* Với mô-đun này, bạn có thể tạo các bút toán điều chỉnh số dư và chúng sẽ được lưu lại trên giao diện quản lý Ví Khách hàng trong ứng dụng Kế toán của bạn. \n"
+"* *Ví dụ*: Điều chỉnh tăng tiền trong ví, hệ thống sẽ ghi nhận: Nợ 811/Có 131. Điều chỉnh giảm, hệ thống sẽ ghi nhận: Nợ 131/Có 711. \n"
+"* Có thể thiết lập tài khoản phải thu/phải trả trên form khách hàng, tài khoản Doanh thu/Chi phí trên Sổ nhật ký Điều chỉnh Ví.\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"=============\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_wallet_adjustment
+msgid "Adjust wallet payment amount\n"
+msgstr "Điều chỉnh số dư trong ví\n"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_wallet_adjustment
+msgid "eWallet Adjustment"
+msgstr "Điều chỉnh ví điện tử"

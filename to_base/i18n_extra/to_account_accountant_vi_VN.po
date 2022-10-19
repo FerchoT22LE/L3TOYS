@@ -1,0 +1,43 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:06+0000\n"
+"PO-Revision-Date: 2021-12-25 05:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_account_accountant
+msgid ""
+"\n"
+"Accounting Access Rights\n"
+"========================\n"
+"It gives the Administrator user access to all accounting features such as journal items and the chart of accounts.\n"
+"\n"
+"It assigns manager and user access rights to the Administrator for the accounting application and only user rights to the Demo user.\n"
+msgstr ""
+"\n"
+"Quyền truy cập kế toán\n"
+"======================\n"
+"Cho phép người dùng Quản trị viên truy cập vào tất cả các tính năng kế toán như các mục nhật ký và biểu đồ tài khoản.\n"
+"\n"
+"Chỉ định quyền truy cập của người quản lý và người dùng cho Quản trị viên đối với ứng dụng kế toán và chỉ quyền của người dùng đối với người dùng Demo.\n"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_account_accountant
+msgid "Accounting & Finance"
+msgstr "Kế toán & Tài chính"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_account_accountant
+msgid "Financial and Analytic Accounting"
+msgstr "Kế toán tài chính, kế toán tổng hợp, kế toán quản trị"

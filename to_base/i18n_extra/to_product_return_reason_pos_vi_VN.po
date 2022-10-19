@@ -1,0 +1,57 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-25 06:20+0000\n"
+"PO-Revision-Date: 2022-03-25 06:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_product_return_reason_pos
+msgid ""
+"\n"
+"Summary\n"
+"=======\n"
+"\n"
+"Extending the application `Return in Point of Sales Screen` (to_pos_frontend_return) and the application `Product Return Reasons - Inventory`\n"
+"(to_product_return_reason_stock) to allows PoS users to specify a reason for Point of Sales order return without leaving PoS screen\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tổng quan\n"
+"=========\n"
+"\n"
+"Mở rộng ứng dụng `Trả Hàng Ngay Trên Màn Hình PoS` (to_pos_frontend_return) và ứng dụng `Lý Do Trả Hàng - Hàng Tồn Kho`\n"
+"(to_product_return_reason_stock) cho phép người dùng PoS chỉ định lý do trả hàng cho điểm bán lẻ mà không cần rời khỏi màn hình PoS\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"==================\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_product_return_reason_pos
+msgid "Add reason for return products in PoS"
+msgstr "Thêm lý do trả hàng cho điểm bán lẻ"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_product_return_reason_pos
+msgid "Product Return Reasons - Point of Sales"
+msgstr "Lý do trả hàng - Điểm Bán Lẻ"

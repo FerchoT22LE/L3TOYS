@@ -1,0 +1,58 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-07 07:36+0000\n"
+"PO-Revision-Date: 2022-03-07 07:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_hr_skill_framework_recruitment
+msgid ""
+"\n"
+"Integrate HR Skill Framework app with Recruitment\n"
+msgstr ""
+"\n"
+"Tích hợp khung kỹ năng nhân viên với tuyển dụng\n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_hr_skill_framework_recruitment
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"With this module, HR Officer can see the detail of each skill when reading applicant's profile.\n"
+"Theses skills description based on Skill Framework, which is builded for each job position requirements.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Với module này, phòng Nhân sự có thể xem được chi tiết các kỹ năng khi đọc hồ sơ ứng viên.\n"
+"Những mô tả kỹ năng này được dựa trên Khung Kỹ Năng đã được xây dựng để phù hợp với yêu cầu của vị trí công việc.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_hr_skill_framework_recruitment
+msgid "HR Skill Framework - Recruitment"
+msgstr "Khung kỹ năng nhân viên - Tuyển dụng"

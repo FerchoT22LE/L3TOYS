@@ -1,0 +1,57 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_currency_rate
+msgid ""
+"\n"
+"Description\n"
+"===========\n"
+"\n"
+"* Add Inverse Rate which is in relation with the rate so that the user can input either the rate or the inverse rate which is at his choice for the same result \n"
+"* Add currency rates graph view which is useful for currency rates analysis over the time\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"\n"
+"* Thêm Tỷ lệ nghịch đảo liên quan đến tỷ lệ để người dùng có thể nhập tỷ lệ hoặc tỷ lệ nghịch tùy theo lựa chọn của mình cho cùng một kết quả\n"
+"* Thêm chế độ xem biểu đồ tỷ giá tiền tệ rất hữu ích cho việc phân tích tỷ giá tiền tệ theo thời gian\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_currency_rate
+msgid "Currency Inverse Rate; Add Graph View;"
+msgstr "Tỷ giá nghịch đảo, Lịch sử tỷ giá;"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_currency_rate
+msgid "Currency Rates Inverse"
+msgstr "Tỷ giá tiền tệ nghịch đảo"

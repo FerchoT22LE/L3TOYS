@@ -1,0 +1,73 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_website_apps_store
+msgid ""
+"\n"
+"Running your own Odoo Apps Store"
+msgstr "Vận hành Kho Ứng dụng Odoo của riêng bạn"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_website_apps_store
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"- This module provides the feature to sell Odoo apps/modules developed by you in the App Store on your website. \n"
+"- You can optionally post the app/module product to the App Store.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"- Add Mega menu on your website to navigate to your App Store\n"
+"- Add Add to cart button on product interface\n"
+"- Navigate the Live Demo button to your demo link\n"
+"- The module/app product is uploaded to the App Store by ticking the Generate App Product button in the Git application\n"
+"- Module/app information is synced from manifest on github. You can also edit/add/delete these information on manifest\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"- Mô-đun này cung cấp tính năng bán ứng dụng/mô-đun Odoo do bạn phát triển trong Kho ứng dụng trên website của bạn.\n"
+"- Bạn có thể tùy chọn sản phẩm ứng dụng/mô-đun được đưa lên Kho ứng dụng.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"- Thêm Mega menu trên website của bạn để điều hướng đến Kho ứng dụng \n"
+"- Thêm nút Add to cart trên giao diện sản phẩm\n"
+"- Điều hướng nút Live Demo đến đường link demo của bạn\n"
+"- Sản phẩm mô-đun/ứng dụng được đưa lên Kho ứng dụng bằng cách tích chọn nút Tạo sản phẩm Ứng dụng trong ứng dụng Git\n"
+"- Thông tin về mô-đun/ứng dụng được đồng bộ từ manifest trên github. Bạn cũng có thể sửa/thêm/xóa những thông tin này trên manifest\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_website_apps_store
+msgid "Website Apps Store"
+msgstr "Chợ Ứng dụng Trực tuyến"

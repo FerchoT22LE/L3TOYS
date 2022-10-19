@@ -1,0 +1,71 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:06+0000\n"
+"PO-Revision-Date: 2021-12-25 05:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_quality_stock
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"\n"
+"* Define quality points that will generate quality checks on pickings,\n"
+"  manufacturing orders or work orders (when to_quality_mrp is installed)\n"
+"* Quality alerts can be created independently or related to quality checks\n"
+"* Define and manage Alert Actions (corrective actions, preventive actions) on each and every Quality Alert\n"
+"* Possibility to add a measure to the quality check with a min/max tolerance\n"
+"* Define your stages for the quality alerts\n"
+"* Analyse Quality Action\n"
+"* SPC reports\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"\n"
+"1. Community\n"
+"2. Enterprise, with prior removal the of Enterprise Edition's Quality application\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng chính\n"
+"===============\n"
+"\n"
+"* Xác định các tiêu chí kiểm soát chất lượng sẽ tạo ra kiểm tra chất lượng trên các giao nhận,\n"
+"   đơn hàng sản xuất hoặc hoạt động sản xuất (khi to_quality_mrp được cài đặt)\n"
+"* Cảnh báo chất lượng có thể được tạo độc lập hoặc liên quan đến kiểm tra chất lượng\n"
+"* Xác định và quản lý Hành động cảnh báo (hành động khắc phục, hành động phòng ngừa) trên mỗi và mọi Cảnh báo chất lượng\n"
+"* Khả năng thêm đo lường vào kiểm tra chất lượng với dung sai tối thiểu/tối đa\n"
+"* Xác định các giai đoạn của bạn cho các cảnh báo chất lượng\n"
+"* Phân tích hành động chất lượng\n"
+"* Báo cáo SPC\n"
+"\n"
+"Phiên bản hỗ trợ\n"
+"================\n"
+"\n"
+"1. Community Edition\n"
+"2. Enterprise Edition, nhưng phải gỡ ứng dụng Chất lượng của ấn bản Enterprise trước.\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_quality_stock
+msgid "Quality Control for your in, out, internal stock moves"
+msgstr "Kiểm soát chất lượng cho các dịch chuyển kho (nhập, xuất, nội bộ)"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_quality_stock
+msgid "Stock Quality Control"
+msgstr "Kiểm soát Chất lượng Kho"

@@ -1,0 +1,73 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_hr_employee_relative
+msgid ""
+"\n"
+"Store employee's relatives information"
+msgstr ""
+"\n"
+"Lưu trữ thông tin người thân của nhân viên"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_hr_employee_relative
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* Store employee's family and relatives information for unplanned circumstances.\n"
+"* View in the \"Employee\" app when installed.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Easy input relatives information in the standard employee form. This information is only maintained and visible by users having the HR Officer role.\n"
+"* Search for employees who have relatives or not.\n"
+"* Filter Partners/Contacts to find out who are the relative of the company's employee.\n"
+"* Search partners by related employee.\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"* Lưu trữ thông tin gia đình và người thân của nhân viên cho các tình huống khẩn cấp.\n"
+"* Nằm trong ứng dụng Nhân viên sau khi hoàn tất cài đặt.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Dễ dàng nhập thông tin người thân trong mẫu nhân viên tiêu chuẩn. Thông tin này chỉ được duy trì và hiển thị bởi người dùng có vai trò Nhân viên Nhân sự.\n"
+"* Tìm kiếm nhân viên có người thân hay không.\n"
+"* Lọc Đối tác / Liên hệ để tìm ra ai là người thân của nhân viên công ty.\n"
+"* Tìm kiếm đối tác của nhân viên liên quan.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_hr_employee_relative
+msgid "Employee Relatives"
+msgstr "Người thân của nhân viên"

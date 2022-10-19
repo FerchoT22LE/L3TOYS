@@ -1,0 +1,57 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_project_kanban_state_notification
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"\n"
+"This module allows project manager to be notified of any changes to kanban states of project tasks.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"    "
+msgstr ""
+"\n"
+"Module này làm gì\n"
+"=================\n"
+"\n"
+"Mô-đun này cho phép người quản lý dự án nhận được thông báo về bất cứ thay đổi nào tới trạng thái kanban của các nhiệm vụ dự án.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_project_kanban_state_notification
+msgid "Project Kanban State Notification"
+msgstr "Thông báo trạng thái kanban của dự án"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_project_kanban_state_notification
+msgid ""
+"Project manager will be notified of any changes to kanban states of project "
+"tasks."
+msgstr ""
+"Người quản lý dự án sẽ được thông báo về bất cứ thay đổi nào tới trạng thái "
+"kanban của những nhiệm vụ dự án."

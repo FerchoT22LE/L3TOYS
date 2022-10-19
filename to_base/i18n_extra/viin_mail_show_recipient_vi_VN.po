@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_mail_show_recipient
+msgid ""
+"\n"
+"        Allows displaying email recipients in the email body\n"
+"    "
+msgstr ""
+"\n"
+"        Cho phép hiển thị những người nhận được email trong nội dung của email\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_mail_show_recipient
+msgid ""
+"\n"
+"Problem\n"
+"-------\n"
+"By default, when sending a message, it will also send an email to all followers, but the followers don't know who the email was sent to.\n"
+"\n"
+"Solution\n"
+"--------\n"
+"This module allows followers to know to whom this email was sent\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Vấn đề\n"
+"------\n"
+"Mặc định, khi gửi tin hệ thống sẽ gửi một email thông báo cho tất cả những người theo dõi nhưng họ sẽ không biết email này được gửi cho những người nào khác.\n"
+"\n"
+"Giải pháp\n"
+"---------\n"
+"Module này cho phép những người theo dõi nhận được email sẽ biết được email được gửi cho những ai.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_mail_show_recipient
+msgid "Mail Show Recipients"
+msgstr "Hiển thị danh sách người nhận trong email"

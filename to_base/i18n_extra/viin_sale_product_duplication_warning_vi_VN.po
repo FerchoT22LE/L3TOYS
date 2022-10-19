@@ -1,0 +1,65 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_viin_sale_product_duplication_warning
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module will:\n"
+"\n"
+"1. Show warning on product duplication (appearing more than 1 time for the same sales order) on the order form view\n"
+"2. Provide an additional filter to help users find sales orders/quotations that contain duplicated products\n"
+"3. Enable/Disable the feature for a specific product by a configurable option on the product form view\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Module này:\n"
+"\n"
+"1. Hiển thị cảnh báo trùng lặp sản phẩm cho cùng một đơn bán (được chọn nhiều hơn 1 lần trên cùng đơn bán) trên giao diện form của đơn bán\n"
+"2. Cung cấp bộ lọc để trợ giúp người dùng tìm kiếm các đơn bán / báo giá mà có chứa các sản phẩm bị trùng lặp\n"
+"3. Kích hoạt/Vô hiệu tính năng này đối với từng sản phẩm cụ thể, cấu hình được trên giao diện form của sản phẩm.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_viin_sale_product_duplication_warning
+msgid "Sales Order Product Duplication Warning"
+msgstr "Cảnh báo trùng Sản phẩm trên Đơn bán"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_viin_sale_product_duplication_warning
+msgid ""
+"Show warning on product duplication (appearing more than 1 time) on the same"
+" sales order"
+msgstr ""
+"Hiển thị cảnh báo các sản phẩm bị trùng (được chọn nhiều hơn 1 lần) trên "
+"cùng một đơn bán"

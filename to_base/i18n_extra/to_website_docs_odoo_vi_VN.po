@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_website_docs_odoo
+msgid ""
+"\n"
+"Manage and Publish Odoo documents on your websites"
+msgstr "Quản lý và xuất bản tài liệu trên Website theo phiên bản Odoo"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_website_docs_odoo
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"If you need to manage multiple versions of the same document that correspond to the versions of Odoo (eg. : user manual for Accounting module Odoo versions 12.0, 13.0, 14.0), \n"
+"this module integrates Odoo version management with documentation on Website, that allows publishing documents according to each Odoo version in the Documents section, Website module.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"- Integrate Odoo Version Management with Website Documentation\n"
+"- Manage and publish your documents with Odoo versioning\n"
+"- When a website viewer selects an Odoo version, the website will display the document corresponding to that Odoo version.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Để quản lý nhiều phiên bản của cùng một tài liệu tương ứng với các phiên bản của Odoo (VD: tài liệu hướng dẫn sử dụng cho phân hệ Kế toán phiên bản Odoo 12.0, 13.0, 14.0),\n"
+"module này tích hợp quản lý phiên bản Odoo với tài liệu trên Website, cho phép xuất bản tài liệu theo từng phiên bản Odoo trong mục Tài liệu, phân hệ Website.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"- Tích hợp Quản Lý Phiên Bản Odoo với Tài liệu Website\n"
+"- Quản lý và xuất bản tài liệu theo từng phiên bản Odoo\n"
+"- Khi người xem lựa chọn phiên bản Odoo trên website, website sẽ hiển thị tài liệu tương ứng với phiên bản Odoo đó\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_website_docs_odoo
+msgid "Website Odoo Versioning Documentation"
+msgstr "Quản Lý tài liệu Website theo phiên bản Odoo"

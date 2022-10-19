@@ -1,0 +1,57 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_vat_counterpart
+msgid ""
+"\n"
+"Key Features\n"
+"============\n"
+"In some use cases where we do not have a counterpart account for a tax entry, this module add Counterpart Account declaration on Tax form to solve the issue.\n"
+"\n"
+"For example, according to Vietnam Accounting Standards, the account code 33312 (VAT on imported goods) requires the account 1331 (VAT on purchase of goods and services) for a counterpart of its.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"Trong một số trường hợp khi chúng ta không có tài khoản đối ứng cho mục thuế, module này thêm tài khoản đối ứng vào form thuế để giải quyết vấn đề này.\n"
+"    \n"
+"Ví dụ, trong Kế toán Việt Nam, khi hạch toán thuế GTGT hàng nhập khẩu vào tài khoản 33312 (GTGT Hàng nhập) thì cần đối ứng với 1331 (GTGT được khấu trừ) cho tài khoản đối ứng.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_vat_counterpart
+msgid "Add Counterpart Account into Tax form for VAT"
+msgstr "Thêm tài khoản đối ứng vào form Thuế cho thuế GTGT"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_vat_counterpart
+msgid "VAT Counterpart Account"
+msgstr "Tài Khoản Đối Ứng Thuế GTGT"

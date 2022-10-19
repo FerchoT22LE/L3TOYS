@@ -1,0 +1,55 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_repair_with_maintenance_schedule
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"When a equipment has been set Maintenance schedule (milestone, parts, actions, v.v), this module helps update that data on Repair order created from Mantainenance request\n"
+"for that equipment.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Khi một thiết bị được thiết lập Lịch bảo trì định kỳ (mốc thời gian bảo trì, phụ tùng cần bảo trì, công việc cần làm, v.v), mô-đun này giúp cập nhật các dữ liệu đó\n"
+"lên Lệnh sửa chữa được tạo từ Yêu cầu bảo trì cho thiết bị đó.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_repair_with_maintenance_schedule
+msgid "Add repair jobs and parts based on maintenance schedule data"
+msgstr "Thêm phụ tùng và công việc sửa chữa dựa trên dữ liệu lịch bảo trì"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_repair_with_maintenance_schedule
+msgid "Repair Request with Maintenance Schedule"
+msgstr "Yêu Cầu Sửa Chữa Với Lịch Bảo Trì"

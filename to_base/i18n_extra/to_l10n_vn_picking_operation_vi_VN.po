@@ -1,0 +1,55 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_l10n_vn_picking_operation
+msgid ""
+"\n"
+"Goods Receipts and Delivery Orders Templates according to the Circular No. 200/2014/TT-BTC\n"
+"        "
+msgstr ""
+"\n"
+"In phiếu Xuất kho, Nhập kho theo mẫu thông tư 200/2014/TT-BTC.\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_l10n_vn_picking_operation
+msgid ""
+"\n"
+"This module replaces the Odoo standard Picking Operation template with the templates VT-01 (for Receipts) and VT-02 (for Delivery Orders) according to the Circular No. 200/2014/TT-BTC by the Ministry of Finance.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô-đun này thay thế mẫu Xuất, Nhập kho tiêu chuẩn của Odoo bằng các mẫu VT-01 (đối với Phiếu Nhập Kho) và VT-02 (đối với Phiếu Xuất Kho) theo Thông tư số 200/2014 / TT-BTC của Bộ Tài chính.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_l10n_vn_picking_operation
+msgid "Vietnam Receipt/Delivery Order Templates"
+msgstr "In phiếu Nhập/Xuất kho theo mẫu Việt Nam "

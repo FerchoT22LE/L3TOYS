@@ -1,0 +1,67 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_sale_desc_short_link
+msgid ""
+"\n"
+"Replace long URLs in sale order line description with short URLs"
+msgstr ""
+"\n"
+"Thay thế URL dài ở mô tả dòng đơn bán thành URL ngắn"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_sale_desc_short_link
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module replaces long URLs in sale order line description with short URLs using Odoo's native link tracker\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Simplify and shorten the URLs in the Sales Orders or Quotaions description in Sales app\n"
+"* Apply to the \"add a note\" section in Order Lines in the same app as well\n"
+"\n"
+"Supported Editions\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"Mô-đun này sử dụng tính năng Theo vết link trong Odoo để thay thế URLs dài thành URLs ngắn ở mô tả dòng đơn bán\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Đơn giản hóa và rút gọn URLs ở trong phần mô tả đơn bán hoặc báo giá của ứng dụng Bán Hàng.\n"
+"* Hỗ trợ áp dụng với cả phần ghi chú trong thanh Chi tiết đơn bán.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_sale_desc_short_link
+msgid "Shorten URLs in Sales Order Line Description"
+msgstr "Rút gọn URLs trong Mô Tả dòng Đơn Bán"

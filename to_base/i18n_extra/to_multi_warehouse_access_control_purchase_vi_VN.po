@@ -1,0 +1,54 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_multi_warehouse_access_control_purchase
+msgid ""
+"\n"
+"Grant 'Inventory / Users: Own Documents' read access to purchase orders and purchase order lines\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Phân quyền bổ sung cho nhóm người dùng 'Kho / Chỉ tài liệu của mình' để có thể đọc đơn mua và các dòng đơn mua\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_multi_warehouse_access_control_purchase
+msgid ""
+"\n"
+"Integrate Multi-Warehouse Access Control with Purchase"
+msgstr ""
+"\n"
+"Tích hợp Kiểm soát truy cập Đa Kho với Mua sắm\n"
+"        "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_multi_warehouse_access_control_purchase
+msgid "Multi-Warehouse Access Control - Purchase"
+msgstr "Kiểm Soát Truy Cập Đa Kho - Mua Sắm"

@@ -1,0 +1,71 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-04 07:30+0000\n"
+"PO-Revision-Date: 2022-05-04 07:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_uom_mail_thread
+msgid ""
+"\n"
+"    Add mail thread and track changes on the Unit of Measure form"
+msgstr ""
+"\n"
+"Theo dõi lịch sử thay đổi trên form Đơn vị tính\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_uom_mail_thread
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"* Modification of Units of Measure and their conversion factors could be dangerous and may harm your business. Tracking changes (who did it, what the old value was, etc.) should protect you.\n"
+"* Sometimes, communication on a Units of Measure is required. Mail thread is now available on Units of Measure.\n"
+"\n"
+"Key Features\n"
+"============\n"
+"* Create the Chatter area in the Units of Measure and UOM Categories form.\n"
+"* Log all changes made to the Units of Measure : who changed it, the old - new value was, when it was changed.\n"
+"* Allows users to communicate in the Chatter area: add follower, send message, attach files, etc.\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"    "
+msgstr ""
+"\n"
+"Mô tả\n"
+"=====\n"
+"* Khi thay đổi thông tin trên form Đơn vị tính và tỷ lệ chuyển đổi của đơn vị tính so với đơn vị gốc có thể ảnh hưởng và làm sai lệch thông tin trên hệ thống phần mềm của Doanh nghiệp bạn.\n"
+"* Theo dõi những thay đổi (ai thay đổi, thay đổi gì so với trước, v.v.) sẽ giúp bạn kiểm soát tốt hơn trước khi những sai sót xảy ra.\n"
+"* Mô-đun ```to_uom_mail_thread``` bổ sung thêm vùng Chatter trên form Đơn vị tính để ghi lại lịch sử và trao đổi thông tin.\n"
+"\n"
+"Tính năng nổi bật\n"
+"=================\n"
+"* Tạo vùng Chatter trên form Đơn vị tính và Nhóm đơn vị\n"
+"* Ghi lại lịch sử thay đổi Đơn vị tính: ai là người thay đổi, thay đổi nội dung nào, thời gian thay đổi.\n"
+"* Cho phép trao đổi thông tin trực tiếp trên form: thêm người theo dõi, gửi tin nhắn, đính kèm, v.v.\n"
+"\n"
+"Ấn bản được hỗ trợ\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_uom_mail_thread
+msgid "Track Changes in Units of Measure"
+msgstr "Theo dõi thay đổi Đơn vị tính"

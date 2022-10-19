@@ -1,0 +1,71 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_product_license_sale
+msgid ""
+"\n"
+"Sell products with licensing"
+msgstr ""
+"\n"
+"Bán Sản phẩm với Giấy phép"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_product_license_sale
+msgid ""
+"\n"
+"This module integrates the application Sales and the application Product Licenses Management to allow selling products with license indicators\n"
+"\n"
+"Key Features\n"
+"============\n"
+"\n"
+"1. Select a product on a sale order line will automatically load the product's license(s) into the sales order line.\n"
+"2. Inject license information into the sales description column on the sales/quotation PDF report\n"
+"3. Include related license contents in the PDF version of the quotation / sales order automatically when the products sold are licensed\n"
+"4. View related license(s) on the quotation/sale order form with one click\n"
+"5. Statistic on Number of sales per license and license version\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Module này tích hợp ứng dụng Bán hàng và ứng dụng Quản lý Giấy phép Sản phẩm cho phép bán sản phẩm với giấy phép\n"
+"\n"
+"Tính năng chính\n"
+"============\n"
+"\n"
+"1. Chọn một sản phẩm trên một dòng đơn bán hàng sẽ tự động tải giấy phép của sản phẩm vào trong dòng đơn bán hàng. Người bán hàng có thể quyết định giữ một hoặc nhiều giấy phép trước khi xác nhận đơn hàng\n"
+"2. Thêm thông tin giấy phép vào cột mô tả đơn hàng của bản báo cáo PDF đơn hàng/báo giá \n"
+"3. Tự động thêm thông tin liên quan đến giấy phép vào bản báo cáo PDF báo giá/đơn hàng khi sản phẩm được đã bán đã được cấp phép\n"
+"4. Hiển thị thông tin liên quan đến giấy phép sản phẩm chỉ với một click\n"
+"5. Thống kê số lượng bán trên mỗi giấy phép và phiên bản giấy phép\n"
+"\n"
+"Ấn bản hỗ trợ\n"
+"==================\n"
+"1. Ấn bản cộng đồng\n"
+"2. Ấn bản doanh nghiệp\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_product_license_sale
+msgid "Product Licenses - Sales"
+msgstr "Giấy Phép Sản Phẩm - Bán Hàng"

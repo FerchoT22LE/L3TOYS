@@ -1,0 +1,66 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_repair_timesheet
+msgid ""
+"\n"
+"Integrate Timesheet application with Repair application\n"
+"        "
+msgstr ""
+"\n"
+"Tích hợp chấm công cho dịch vụ sửa chữa.\n"
+"        "
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_repair_timesheet
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module helps integrate Timesheet application with Repair application:\n"
+"\n"
+"* Repair service linked with tasks helps enable tasks log and invoicing based on timesheets\n"
+"* Allow to create many invoices (by milestones, by service scope, etc.) for one repair order\n"
+"\n"
+"Editions Supported\n"
+"==================\n"
+"1. Community Edition\n"
+"2. Enterprise Edition\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"\n"
+"Mô-đun này giúp tích hợp ứng dụng Chấm công với ứng dụng Sửa chữa:\n"
+"\n"
+"* Các dịch vụ sửa chữa sẽ được gắn với các nhiệm vụ, giúp người dùng có thể chấm công và xuất hóa đơn theo công việc đã thực hiện thực tế.\n"
+"* Cho phép xuất nhiều hóa đơn (có thể theo từng giai đoạn, hạng mục hoàn thành v.v) cho một đơn sửa chữa.\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_repair_timesheet
+msgid "Repair Timesheet"
+msgstr "Chấm công sửa chữa"

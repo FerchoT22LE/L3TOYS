@@ -1,0 +1,71 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 05:01+0000\n"
+"PO-Revision-Date: 2021-12-25 05:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: base
+#: model:ir.module.module,summary:base.module_to_registration_email_blacklist
+msgid ""
+"\n"
+"Define email blacklist to prevent blacklisted email account registration"
+msgstr ""
+"\n"
+"Thiết lập danh sách đen email để ngăn chặn đăng ký tài khoản bằng các email này\n"
+"    \t"
+
+#. module: base
+#: model:ir.module.module,description:base.module_to_registration_email_blacklist
+msgid ""
+"\n"
+"What it does\n"
+"============\n"
+"This module allows administrator to define a list of blacklisted email rule to prevent users from registering an account using an email that matches a rule in the list.\n"
+"\n"
+"Sample Rules\n"
+"------------\n"
+"#. *company.com*: this will block all the registration emails having the domain as *company.com*\n"
+"#. *\\*.company.com*: this will block all the registration emails having the domain as a subdomain of the *company.com*\n"
+"#. *user@company.com*: this will block the registration email that exactly matches *user@company.com*\n"
+"#. *\\*user\\*@\\*.company.com*: this will block all the registration emails that contain *user* in their local partner and having the domain as a subdomain of the *company.com*\n"
+"#. *company.\\**: this will block all the registration emails that have the domain prefixed with *company.* and ended with any letters\n"
+"#. *\\*.company.\\**: this will block all the registration emails that have *.company.* as a part of their domain name\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"Ứng dụng này làm gì\n"
+"===================\n"
+"Ứng dụng này cho phép quản trị viên định nghĩa một danh sách các email danh sách đen để ngăn chặn người dùng đăng ký tài khoản sử dụng các email mà khớp với dánh sách đen này.\n"
+"\n"
+"Các ví dụ\n"
+"---------\n"
+"#. *company.com*: sẽ chặn việc đăng ký bằng các email mà có tên miền là *company.com*\n"
+"#. *\\*.company.com*: sẽ chặn việc đăng ký bằng các email mà có tên miền là tên miền con của *company.com*\n"
+"#. *user@company.com*: sẽ chặn việc đăng ký bằng các email mà khớp chính xác với *user@company.com*\n"
+"#. *\\*user\\*@\\*.company.com*: sẽ chặn việc đăng ký bằng các email mà chứa *user* ở phần trước @ và có tên miền là tên miền con của *company.com*\n"
+"#. *company.\\**: sẽ chặn việc đăng ký bằng các email mà có tên miền có tiên tố là *company.* và có hậu tố là bất kỳ ký tự nào\n"
+"#. *\\*.company.\\**: sẽ chặn việc đăng ký bằng các email mà có tên miền có chứa *.company.*\n"
+"\n"
+"Ấn bản được Hỗ trợ\n"
+"==================\n"
+"1. Ấn bản Community\n"
+"2. Ấn bản Enterprise\n"
+"\n"
+"    "
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_to_registration_email_blacklist
+msgid "Registration Email Blacklist"
+msgstr "Danh sách đen Email đăng ký tài khoản"
